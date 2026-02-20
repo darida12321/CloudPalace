@@ -1,0 +1,1 @@
+A collection of [[Sets|sets]] $S_n$ is a **partition** of a [[Sets|set]] S if their [[Union of sets|union]] is S, and any two $S_i$ and $S_j$ are [[Disjoint sets|disjoint]].

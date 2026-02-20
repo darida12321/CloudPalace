@@ -1,0 +1,1 @@
+Two [[Sets|sets]], $S$ and $T$ are **equal**, if they are [[Subset|subsets]] of each other. $S\subset T\land T\subset S\implies S=T$  

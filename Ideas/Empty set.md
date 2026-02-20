@@ -1,0 +1,1 @@
+The **empty set** $\emptyset$ is a [[Sets|set]] with no elements.
