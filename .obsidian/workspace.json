@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Probability theory.md",
+                "file": "Ideas/The subjective interpretation of probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability theory"
+              "title": "The subjective interpretation of probability"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "something.md",
+                "file": "Ideas/The subjective interpretation of probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from something"
+              "title": "Outgoing links from The subjective interpretation of probability"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Probability.md",
+                "file": "Ideas/The subjective interpretation of probability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Probability"
+              "title": "Outline of The subjective interpretation of probability"
             }
           },
           {
@@ -180,20 +180,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d926ff275935349e",
+  "active": "c837bc7ba31a8bcd",
   "lastOpenFiles": [
+    "Concepts/Probability theory.md",
+    "Ideas/The subjective interpretation of probability.md",
+    "Ideas/The subjective interpretation of probability.md",
+    "Ideas/The propensity interpretation of probability.md",
+    "Ideas/The frequency interpretation of probability.md",
+    "Ideas/The best-system interpretation of probability.md",
     "Ideas/Conditional probability.md",
     "Ideas/Probability law.md",
     "Admin/TODO.md",
-    "Concepts/Probability theory.md",
-    "The subjective interpretation of probability.md",
     "Ideas/Discrete Probability Law.md",
     "Ideas/Set of real numbers.md",
     "Ideas/Probabilistic models.md",
-    "The frequency interpretation of probability.md",
+    "Ideas/The frequency interpretation of probability.md",
     "Ideas/The classical interpretation of probability.md",
-    "The best-system interpretation of probability.md",
-    "The propensity interpretation of probability.md",
+    "Ideas/The best-system interpretation of probability.md",
+    "Ideas/The propensity interpretation of probability.md",
     "Ideas/The evidential interpretation of probability.md",
     "Ideas/The logical interpretation of probability.md",
     "Ideas/Sample spaces.md",
@@ -204,10 +208,6 @@
     "Ideas/Union of sets.md",
     "Ideas/Sets.md",
     "Ideas/Intersection of sets.md",
-    "Ideas/Algebra of sets.md",
-    "Ideas/Venn diagrams.md",
-    "Ideas/Complement of a set.md",
-    "Ideas/Empty set.md",
     "Admin/Attachments/Venn diagram.png",
     "Admin",
     "Admin/Templates",
