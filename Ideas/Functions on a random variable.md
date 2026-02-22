@@ -3,7 +3,7 @@ Any [[Functions|function]] acting on a [[Random variable|random variable]] $X$ p
 The [[Expectation|expectation]] is: $E[g(X)]=\sum_x g(x)p_X(x)$ 
 This also applies to [[Joint probability mass function|Joint PMFs]]: $E[g(X,Y)]=\sum_{x,y}g(x,y)p_{X,Y}(x,y)$
 
-Given a linear function of the form $Y=aX+b$, we can easily calculate $Y$'s:
+Given a linear [[Functions|function]] of the form $Y=aX+b$, we can easily calculate $Y$'s:
 - [[Expectation]]: $E[Y]=aE[X]+b$
 - [[Variance]]: $\text{var}(Y)=a^2\text{var}(X)$
 

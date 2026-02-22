@@ -2,4 +2,5 @@ A [[Discrete random variable|discrete random variable]] that describes the proce
 $$p_X(k)=(1-p)^{k-1}p,\qquad k=1,2,\dots$$
 
 
-
+The [[Expectation|mean]] is $1/p$.
+The [[Variance|variance]] is $(1-p)/p^2$.

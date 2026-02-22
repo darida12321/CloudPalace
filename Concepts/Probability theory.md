@@ -25,7 +25,16 @@ Here are some of the leading interpretations:
 
 Now with this philosophical tangent out of the way, let us get into the math.
 
-# Probability
+# Probability concepts
+
+Describe probability, conditional, Bayes' theorem
+Describe random vars, multiple, conditionals
+Describe independence
+Sequential vs divide and conquer
+
+# Notable random variables
+Explain expectation and variance (second central moment)
+
 
 [[Probabilistic models]]. We start with [[Kolmogorov’s axiomatization]], where we get $P(A)$.
 [[Random variable]]
@@ -36,43 +45,46 @@ RANDOM EVENTS
 [[Random event]]: $A$
 [[Probability law]]: $P(A)$ 
 [[Conditional probability]]: $P(A|B)=P(A\cap B)/P(B)$
-
-[[Total probability theorem]]: $P(B)=\sum_iP(A_i)P(B|A_i)$
-[[Multiplication rule]]: $P(A_1\cap A_2)=P(A_1)P(A_2|A_1)$
 [[Bayes' theorem]]: $P(A|B)=P(B|A)P(A)/P(B)$
 
-[[Independent events]]: $P(A\cap B)=P(A)*P(B)$
-[[Conditionally independent events]]: $P(A\cap B|C)=P(A|C)P(B|C)$
+Sequential approach vs divide and conquer approach
+[[Multiplication rule]]: $P(A_1\cap A_2)=P(A_1)P(A_2|A_1)$
+[[Total probability theorem]]: $P(B)=\sum_iP(A_i)P(B|A_i)$
+
+Independence
+[[Independent events]]: 
+$P(A\cap B)=P(A)*P(B)$
+$P(A|B)=P(A)$ 
+[[Conditionally independent events]]: 
+$P(A\cap B|C)=P(A|C)P(B|C)$
+$P(A|B\cap C)=P(A|C)$
 
 DISCRETE RANDOM VARIABLES:
 [[Discrete random variable]]: $X$
 [[Probability mass function]]: $p_X(x)$
 [[Joint probability mass function]]: $p_{X,Y}(x,y)=P(X=x,Y=y)$
-
-
-====== Haven't actually modified these yet, tomorrow's me
 [[Conditional probability mass function]]: $p_{X|Y}(x|y)=p_{X,Y}(x,y)/p_Y(y)$
- $p_{X|A}(x)=P(X=x|A)$
 
-
-[[Total probability theorem]]: $p_X(x)=\sum_yp_Y(y)p_{X|Y}(x|y)$
+Sequential approach vs divide and conquer approach
 [[Multiplication rule]]: $p_{X,Y}(x,y)=p_Y(y)p_{X|Y}(x|y)$
+[[Total probability theorem]]: $p_X(x)=\sum_yp_Y(y)p_{X|Y}(x|y)$
+
+Independence
+[[Independent random variable]]: 
+$p_{X,Y}(x,y)=p_X(x)p_Y(y)$
+$p_{X|Y}(x|y)=p_X(x)$
+[[Conditionally independent random variables]]: 
+$P_{X,Y|A}(x,y)=p_{X|A}(x)p_{Y|A}(y)$
+$p_{X|Y,A}(x|y)=p_{X|A}(x)$
 
 
-== put these into the "expectation, variance" portion
-[[Conditional expectation]]: $E[X|A]=\sum_xxp_{X|A}(x|A)$
-[[Total expectation theorem]]: $E[X]=\sum_yp_Y(y)E[X|Y=y]$
-
-
-
-
-
-SPECIFIC RANDOM VARIABLES
+EXPECTATION AND VARIANCE
 [[Expectation]]: $E[X]=\sum_xxp_X(x)$
+[[Conditional expectation]]: $E[X|Y=y]=\sum_xxp_{X|Y}(x|y)$
+[[Total expectation theorem]]: $E[X]=\sum_yp_Y(y)E[X|Y=y]$
 [[Variance]]: $\text{var}(X)=E[(X-E[X])^2]$
 
-
-#TODO mean and variance for all common distributions
+SPECIFIC RANDOM VARIABLES
 [[Bernoulli random variable]]
 [[Binomial random variable]]
 [[Geometric random variable]]
@@ -94,7 +106,7 @@ counting:
 
 
 
-#TODO  kurtosis, and a p5js example
+#TODO  kurtosis (after skew), and a p5js example depicting it graphically
 
 ---
 sources:

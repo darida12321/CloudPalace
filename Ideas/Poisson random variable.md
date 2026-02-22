@@ -1,9 +1,9 @@
 A [[Discrete random variable|discrete random variable]] which is *essentially* a [[Binomial random variable|binomial random variable]] with very small $p$, and very large $n$. The $\lambda$ represents $n*p$ (the sizes cancel out).
-$$p_X(k)=e^{-k}\frac{\lambda^k}{k!},\qquad k=0,1,\dots$$
+$$p_X(k)=e^{-\lambda}\frac{\lambda^k}{k!},\qquad k=0,1,\dots$$
 The [[Expectation|mean]] is $\lambda$.
 The [[Variance|variance]] is $p(1-p)$.
 
-Calculation for the mean of the **Poisson random variable**. 
+Calculation for the [[Expectation|mean]] of the **Poisson random variable**. The last step is achieved by the normalization property of $p_X(m)$.
 $$
 \begin{align}
 E[X] &= \sum_{k=0}^\infty ke^{-\lambda}\frac{\lambda^k}{k!} \\

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:Ideas  ",
   "showTags": false,
   "showAttachments": false,
@@ -17,6 +17,6 @@
   "repelStrength": 11.6666666666667,
   "linkStrength": 1,
   "linkDistance": 128,
-  "scale": 0.2588386562181653,
+  "scale": 0.1846232622585832,
   "close": true
 }
