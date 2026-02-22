@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "eab7f7fcb0fa903b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "fabb361afe9c26cf",
             "type": "leaf",
             "state": {
@@ -119,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideas/Joint probability mass function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Joint probability mass function"
             }
           },
           {
@@ -137,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideas/Joint probability mass function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Joint probability mass function"
             }
           },
           {
@@ -203,11 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cac46245d324bdc9",
+  "active": "fabb361afe9c26cf",
   "lastOpenFiles": [
+    "New folder",
+    "asdf.md",
+    "Ideas/Joint probability mass function.md",
+    "README.md",
     "Ideas/Variance.md",
     "Concepts/Probability theory.md",
-    "Ideas/Joint probability mass function.md",
     "Ideas/Multiplication rule.md",
     "Ideas/Total probability theorem.md",
     "Ideas/Bernoulli random variable.md",
@@ -228,9 +223,6 @@
     "Ideas/Random event.md",
     "Ideas/Conditional probability.md",
     "Ideas/Number of partitions.md",
-    "Ideas/Combinations.md",
-    "Ideas/K-permutations.md",
-    "Ideas/Permutations.md",
     "Admin/Attachments/Venn diagram.png",
     "Admin",
     "Admin/Templates",
