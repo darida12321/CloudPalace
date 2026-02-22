@@ -1,0 +1,2 @@
+When counting [[Combinations|combinations]] of picking $k$ out of $n$ objects, we essentially [[Partition of a set|partitioned]] the [[Set|set]] of objects into 2 partitions. Using a similar argument, if we want to **partition** those objects into $i$ partitions, each having $n_i$ elements, we can use the **multinomial coefficient**:
+$${n\choose n_1,n_2\dots n_i}=\frac{n!}{n_1!n_2!\dots n_i!}$$

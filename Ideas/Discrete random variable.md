@@ -1,0 +1,1 @@
+**Discrete random variables** are [[Random variable|random variables]] where the [[Sample spaces|sample space]] is finite, or [[Countably infinite|countably infinite]]. It has an assigned [[Probability mass function]] (PMF), which gives the probability of each numerical value that the random variable can take.

@@ -1,0 +1,1 @@
+If we have $n$ unique objects, and want to rearrange them, how many ways can we do that? We have $n$ choices for the new first element, then $n-1$ for the second and so on. Using [[The counting principle|the counting principle]], we get $n!$ different **permutations**.

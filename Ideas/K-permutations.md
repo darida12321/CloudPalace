@@ -1,0 +1,1 @@
+Similar to [[Permutations|permutations]], we have $n$ objects. We want to pick out $k$ elements in any order. For the first choice we have $n$ choices, then $n-1$, all the way to $n-k+1$. In total, we will have $n!/(n-k)!$ distinct **k-permutations**.

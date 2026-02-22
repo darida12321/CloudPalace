@@ -1,1 +1,1 @@
-If every element of a [[Sets|set]] S is also an element of T, we say that S is a **subset** of T, and write $S\subset T$ 
+If every element of a [[Set|set]] S is also an element of T, we say that S is a **subset** of T, and write $S\subset T$ 

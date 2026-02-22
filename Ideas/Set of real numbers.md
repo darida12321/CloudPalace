@@ -1,1 +1,1 @@
-The [[Sets|set]] of **real numbers** is denoted by $\mathbb{R}$ 
+The [[Set|set]] of **real numbers** is denoted by $\mathbb{R}$ 

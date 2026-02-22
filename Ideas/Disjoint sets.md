@@ -1,1 +1,1 @@
-Two [[Sets|sets]] $S$ and $T$ are said to be **disjoint** if their [[Intersection of sets|intersection]] is the [[Empty set|empty set]].
+Two [[Set|sets]] $S$ and $T$ are said to be **disjoint** if their [[Intersection of sets|intersection]] is the [[Empty set|empty set]].

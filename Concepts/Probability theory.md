@@ -28,13 +28,73 @@ Now with this philosophical tangent out of the way, let us get into the math.
 # Probability
 
 [[Probabilistic models]]. We start with [[Kolmogorov’s axiomatization]], where we get $P(A)$.
-
-[[Conditional probability]] $P(A|B)$
-$$P(A|B)=\frac{P(A\cup B)}{P(B)}$$
-
+[[Random variable]]
+[[Functions on a random variable]]
 
 
-#TODO
+RANDOM EVENTS
+[[Random event]]: $A$
+[[Probability law]]: $P(A)$ 
+[[Conditional probability]]: $P(A|B)=P(A\cap B)/P(B)$
+
+[[Total probability theorem]]: $P(B)=\sum_iP(A_i)P(B|A_i)$
+[[Multiplication rule]]: $P(A_1\cap A_2)=P(A_1)P(A_2|A_1)$
+[[Bayes' theorem]]: $P(A|B)=P(B|A)P(A)/P(B)$
+
+[[Independent events]]: $P(A\cap B)=P(A)*P(B)$
+[[Conditionally independent events]]: $P(A\cap B|C)=P(A|C)P(B|C)$
+
+DISCRETE RANDOM VARIABLES:
+[[Discrete random variable]]: $X$
+[[Probability mass function]]: $p_X(x)$
+[[Joint probability mass function]]: $p_{X,Y}(x,y)=P(X=x,Y=y)$
+
+
+====== Haven't actually modified these yet, tomorrow's me
+[[Conditional probability mass function]]: $p_{X|Y}(x|y)=p_{X,Y}(x,y)/p_Y(y)$
+ $p_{X|A}(x)=P(X=x|A)$
+
+
+[[Total probability theorem]]: $p_X(x)=\sum_yp_Y(y)p_{X|Y}(x|y)$
+[[Multiplication rule]]: $p_{X,Y}(x,y)=p_Y(y)p_{X|Y}(x|y)$
+
+
+== put these into the "expectation, variance" portion
+[[Conditional expectation]]: $E[X|A]=\sum_xxp_{X|A}(x|A)$
+[[Total expectation theorem]]: $E[X]=\sum_yp_Y(y)E[X|Y=y]$
+
+
+
+
+
+SPECIFIC RANDOM VARIABLES
+[[Expectation]]: $E[X]=\sum_xxp_X(x)$
+[[Variance]]: $\text{var}(X)=E[(X-E[X])^2]$
+
+
+#TODO mean and variance for all common distributions
+[[Bernoulli random variable]]
+[[Binomial random variable]]
+[[Geometric random variable]]
+[[Poisson random variable]]
+
+
+
+
+
+
+
+counting:
+[[The counting principle]]
+[[Permutations]]
+[[K-permutations]]
+[[Combinations]]
+[[Number of partitions]]
+
+
+
+
+#TODO  kurtosis, and a p5js example
 
 ---
 sources:

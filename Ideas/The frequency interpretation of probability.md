@@ -1,4 +1,4 @@
-The **frequency interpretation** claims that the probability of an [[Probabilistic events|event]] $A$ in a finite reference class $B$ is the relative frequency of the occurrences of $A$ in $B$.
+The **frequency interpretation** claims that the probability of an [[Random event|event]] $A$ in a finite reference class $B$ is the relative frequency of the occurrences of $A$ in $B$.
 
 This is similar to the [[The classical interpretation of probability|classical interpretation]], but instead of counting possible occurrences, we count actual outcomes.
 

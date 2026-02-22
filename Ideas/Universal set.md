@@ -1,1 +1,1 @@
-The **universal set** is the [[Sets|set]] that contains all objects. Every [[Sets|set]] is the [[Subset|subset]] of this. $S\subset\Omega$.
+The **universal set** is the [[Set|set]] that contains all objects. Every [[Set|set]] is the [[Subset|subset]] of this. $S\subset\Omega$.

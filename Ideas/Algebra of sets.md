@@ -1,4 +1,4 @@
-[[Sets]] and their operations ([[Complement of a set|complement]], [[Union of sets|union]], [[Intersection of sets|intersection]]) follow some [[Algebras|algebraic]] laws.
+[[Set|Sets]] and their operations ([[Complement of a set|complement]], [[Union of sets|union]], [[Intersection of sets|intersection]]) follow some [[Algebras|algebraic]] laws.
 
 - The [[Union of sets|union]] and [[Intersection of sets|intersection]] are [[Commutative property|commutative]].
 	- $S\cup T=T\cup S$

@@ -1,0 +1,2 @@
+We have $n$ objects, and we want to see how many **combinations** of $k$ elements there are. In essence, we are **choosing** $k$ elements. This is similar to a [[K-permutations|k-permutation]], except we don't care about the ordering of the choices. The total number of permutations are:
+$${n\choose k}=\frac{n!}{k!(n-k)!}$$

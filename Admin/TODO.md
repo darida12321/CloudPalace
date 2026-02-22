@@ -1,4 +1,13 @@
 
+# Note taking
+Zettlekasten
+Dewey decimal system
+tags
+neuroscience
+hierarchical organization
+science of learning
+neuroscience
+spaced repetition
 
 
 
