@@ -1,0 +1,2 @@
+The **continuous** equivalent to [[Bayes' rule|Bayes' rule]], applying to [[Continuous random variable|continuous random variables]].
+$$f_{X|Y}(x|y)=\frac{f_X(x)f_{Y|X}(y|x)}{f_Y(y)}=\frac{f_X(x)f_{Y|X}(y|x)}{\int f_X(t)f_{Y|X}(y|t)\;dt}$$

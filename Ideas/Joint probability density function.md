@@ -1,0 +1,2 @@
+The joint [[Probability density function|probability density function]] of [[Random variable|random variables]] $X$, $Y$ and $Z$ is:
+$$P((X,Y,Z)\in B)=\iiint_{(x,y,z)\in B}f_{X,Y,Z}(x,y,z)\;dx\;dy\;dz$$

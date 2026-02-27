@@ -1,1 +1,0 @@
-If $x$ and $y$ are two objects, the **ordered pair** of $x$ and $y$ is $(x,y)$. 

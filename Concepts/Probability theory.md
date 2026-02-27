@@ -27,10 +27,13 @@ Now with this philosophical tangent out of the way, let us get into the math.
 
 # Probability concepts
 
-Describe probability, conditional, Bayes' theorem
-Describe random vars, multiple, conditionals
-Describe independence
-Sequential vs divide and conquer
+Probability model, sample space etc.
+Conditional, Bayes' theorem.
+
+Random variables (discrete vs cont.), normalization property
+Joint, marginal, conditional, independent for discrete, continuous, normal (table)
+
+Sequential, divide and conquer, normalization.
 
 # Notable random variables
 Explain expectation and variance (second central moment)
@@ -45,11 +48,16 @@ RANDOM EVENTS
 [[Random event]]: $A$
 [[Probability law]]: $P(A)$ 
 [[Conditional probability]]: $P(A|B)=P(A\cap B)/P(B)$
-[[Bayes' theorem]]: $P(A|B)=P(B|A)P(A)/P(B)$
+[[Bayes' rule]]: $P(A|B)=P(B|A)P(A)/P(B)$
+[[Discrete Bayes' rule]]:
+[[Continuous Bayes' rule]]: $f_{X|Y}(x|y)=f_X(x)f_{Y|X}(y|x)/f_Y(y)$ 
+
 
 Sequential approach vs divide and conquer approach
 [[Multiplication rule]]: $P(A_1\cap A_2)=P(A_1)P(A_2|A_1)$
 [[Total probability theorem]]: $P(B)=\sum_iP(A_i)P(B|A_i)$
+
+
 
 Independence
 [[Independent events]]: 
@@ -63,19 +71,47 @@ DISCRETE RANDOM VARIABLES:
 [[Discrete random variable]]: $X$
 [[Probability mass function]]: $p_X(x)$
 [[Joint probability mass function]]: $p_{X,Y}(x,y)=P(X=x,Y=y)$
+[[Marginal probability mass function]]: $p_X(x)=\sum_yp_{X,Y}(x,y)$ 
 [[Conditional probability mass function]]: $p_{X|Y}(x|y)=p_{X,Y}(x,y)/p_Y(y)$
+
 
 Sequential approach vs divide and conquer approach
 [[Multiplication rule]]: $p_{X,Y}(x,y)=p_Y(y)p_{X|Y}(x|y)$
 [[Total probability theorem]]: $p_X(x)=\sum_yp_Y(y)p_{X|Y}(x|y)$
 
+
 Independence
-[[Independent random variable]]: 
+[[Independent discrete random variable]]: 
 $p_{X,Y}(x,y)=p_X(x)p_Y(y)$
 $p_{X|Y}(x|y)=p_X(x)$
-[[Conditionally independent random variables]]: 
+[[Conditionally independent discrete random variables]]: 
 $P_{X,Y|A}(x,y)=p_{X|A}(x)p_{Y|A}(y)$
 $p_{X|Y,A}(x|y)=p_{X|A}(x)$
+
+CONTINUOUS RANDOM VARIABLES:
+[[Continuous random variable]]: $X$
+[[Probability density function]]: $f_X(x)$ 
+[[Joint probability density function]]: $f_{X,Y}(x,y)$
+[[Marginal probability density function]]: $f_X(x)=\int_{-\infty}^\infty f_{X,Y}(x,y)dy$ 
+[[Conditional probability density function]]: $f_{X|A}(x|A)$ 
+
+Independence:
+[[Independent continuous random variable]]:
+$f_{X,Y}(x,y)=f_X(x)f_Y(y)$
+$f_{X|Y}(x|y)=f_X(x)$
+[[Conditionally independent continuous random variables]]:
+
+
+[[Cumulative distribution function]]: $F_X(x)$
+[[Joint cumulative distribution function]]: $F_{X,Y}(x,y)$ 
+[[Normalization property]]: #TODO nvm, just add some shit to pdf-s and pmf-s
+
+
+
+
+
+
+
 
 
 EXPECTATION AND VARIANCE
@@ -85,12 +121,15 @@ EXPECTATION AND VARIANCE
 [[Variance]]: $\text{var}(X)=E[(X-E[X])^2]$
 
 SPECIFIC RANDOM VARIABLES
+[[Discrete uniform random variable]]
 [[Bernoulli random variable]]
 [[Binomial random variable]]
 [[Geometric random variable]]
 [[Poisson random variable]]
 
-
+[[Continuous uniform random variable]]
+[[Exponential random variable]]
+[[Normal random variable]]
 
 
 
