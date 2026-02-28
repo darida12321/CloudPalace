@@ -1,5 +1,5 @@
 # What is probability?
-**Probability theory** is about the mathematical description of uncertain situations. For every uncertain experiment, we must define a [[Sample spaces|sample space]]: its possible outcomes, and a [[Probability law|probability law]]: the probability of each of those outcomes. This probability law must obey [[Kolmogorov’s axiomatization]].
+**Probability theory** is about the mathematical description of uncertain situations. For every uncertain experiment, we must define a [[Sample space|sample space]]: its possible outcomes, and a [[Probability law|probability law]]: the probability of each of those outcomes. This probability law must obey [[Kolmogorov’s axiomatization]].
 
 ##### But what *is* probability?
 [[Kolmogorov’s axiomatization|Kolmogorov's axioms]] are clearly useful, but what *is* it that they actually describe? We use "probabilities" in many different contexts:
@@ -26,28 +26,66 @@ Here are some of the leading interpretations:
 Now with this philosophical tangent out of the way, let us get into the math.
 
 # Probability concepts
+Every [[Random event|random event]] has a set of possible outcomes, called a [[Sample space|sample space]]. Then, a [[Probability law|probability law]] assigns a value to each outcome, following [[Kolmogorov’s axiomatization]]. For an [[Random event|event]] $A$, this is denoted by $P(A)$. This is a [[Probability model|probability model]]
 
-Probability model, sample space etc.
-Conditional, Bayes' theorem.
+##### Random variables
+When the outcomes are numerical in nature, or when it's helpful to map them to a number, we can define a [[Random variable|random variable]]. It is a function that maps every element of the [[Sample space|sample space]] to a number. When there are finite or [[Countable infinity|countably infinite]] possible outcomes, the [[Random variable|random variable]] is [[Discrete random variable|discrete]]. Otherwise, it's [[Continuous random variable|continuous]]. 
 
-Random variables (discrete vs cont.), normalization property
-Joint, marginal, conditional, independent for discrete, continuous, normal (table)
+##### PMF, PDF and CDF
+[[Discrete random variable|Discrete random variables]] are described by a [[Probability mass function|probability mass function (PMF)]]. It describes the probability of the outcome getting mapped to that number: $P(X=x)=p_X(x)$. On the other hand, [[Continuous random variable|continuous random variables]] are described by a [[Probability density function|probability density function (PDF)]]. The probability of the value falls into a specific interval is $P([a,b])=\int_a^bf_X(t)dt$. Note, that $f_X$ does not denote the probability of any event, as it can be greater than 1.
 
-Sequential, divide and conquer, normalization.
+We can see that [[Probability mass function|PMFs]] and [[Probability density function|PDFs]] are different in nature, but they can be united by the [[Cumulative distribution function|cumulative distribution function (CDF)]]. It merges these concepts by accumulating the probabilities "up to" $x$.  $P(X<x)=F_X(x)$. In the [[Continuous random variable|continuous]] case, it's a continuous function, while in the [[Discrete random variable|discrete]] case, it has discrete jumps.
+
+|                                                                                                                                                          | [[Probability mass function\|PMF]]                           | [[Probability density function\|PDF]]                        | [[Cumulative distribution function\|CDF]]                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Definition [[Probability mass function\|PMF]], [[Probability density function\|PDF]], [[Cumulative distribution function\|CDF]]                          | $$p_X(x)=P(X\!=\!x)$$                                        | $$f_X(x)=\frac{P([x,x\!+\!\delta])}{\delta}$$                | $$F_X(x)=P(X\!\leq\!x)\;$$                                                   |
+| Joint [[Joint probability mass function\|PMF]], [[Joint probability density function\|PDF]], [[Joint cumulative distribution function\|CDF]]             | $$p_{X,Y}(x,y)$$                                             | $$f_{X,Y}(x,y)$$                                             | $$F_{X,Y}(x,y)$$                                                             |
+| Marginal [[Marginal probability mass function\|PMF]], [[Marginal probability density function\|PDF]], [[Marginal cumulative distribution function\|CDF]] | $$\begin{align}&p_X(x)= \\\sum_y&p_{X,Y}(x,y)\\\end{align}$$ | $$\begin{align}&f_X(x)=\\\int &f_{X,Y}(x,y)\;dy\end{align}$$ | $$\begin{align}&F_X(x)=\\\lim_{y\rightarrow\infty}&F_{X,Y}(x,y)\end{align}$$ |
+##### Conditional probability
+Conditional, independent, conditionally independent random vars
+
+|                                                                                                                                                                         | [[Probability law\|Probability]]                                                | [[Discrete random variable\|Discrete variable]]                          | [[Continuous random variable\|Continuous variable]]                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [[Conditional probability]]:<br>([[Conditional probability mass function\|PMF]], [[Conditional probability density function\|PDF]])                                     | $$P(A\vert B)=\frac{P(A\cap B)}{P(B)}$$                                         | $$p_{X\vert Y}(x\vert y)$$                                               | $$f_{X\vert Y}(x\vert y)$$                                               |
+| [[Independent events]]:<br>([[Independent discrete random variable\|PMF]], [[Independent continuous random variable\|PDF]])                                             | $$\begin{align}P(A\cap B)&=P(A)P(B)\\&\text{or}\\P(A\vert B)&=P(A)\end{align}$$ | $$\begin{align}p_{X,Y}(x,y)=\\p_X(x)p_Y(y)\end{align}$$                  | $$\begin{align}f_{X,Y}(x,y)=\\f_X(x)f_Y(y)\end{align}$$                  |
+| [[Conditionally independent events]]:<br>([[Conditionally independent discrete random variables\|PMF]], [[Conditionally independent continuous random variables\|PDF]]) | $$P(A\vert B\cap C)=P(A\vert C)$$                                               | $$\begin{align}&p_{X\vert Y,A}(x\vert y)\\&=p_{X\vert A}(x)\end{align}$$ | $$\begin{align}&f_{X\vert Y,A}(x\vert y)\\&=f_{X\vert A}(x)\end{align}$$ |
+
+
+# Probability theorems
+Given our definitions, we can start defining some general probability concepts. We will explain them for the case of a [[Probability model|probability model]], however, they apply equally to [[Random variable|random variables]].
+
+
+
+normalization property (p, disc, cont) SINGLE
+multiplication rule (p, disc, cont) SINGLE
+total probability theorem (p, disc, cont) SINGLE
+bayes' rule (p, disc, cont) SINGLE
+
+|                            | [[Probability law\|Probability]] | [[Discrete random variable\|Discrete variable]] | [[Continuous random variable\|Continuous variable]] |
+| :------------------------- | -------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
+| [[Normalization property]] |                                  |                                                 |                                                     |
+
+
+
+
+
+
+
+
 
 # Notable random variables
 Explain expectation and variance (second central moment)
 
 
-[[Probabilistic models]]. We start with [[Kolmogorov’s axiomatization]], where we get $P(A)$.
-[[Random variable]]
+
+
+
+# NOTES
+
 [[Functions on a random variable]]
 
 
 RANDOM EVENTS
-[[Random event]]: $A$
-[[Probability law]]: $P(A)$ 
-[[Conditional probability]]: $P(A|B)=P(A\cap B)/P(B)$
 [[Bayes' rule]]: $P(A|B)=P(B|A)P(A)/P(B)$
 [[Discrete Bayes' rule]]:
 [[Continuous Bayes' rule]]: $f_{X|Y}(x|y)=f_X(x)f_{Y|X}(y|x)/f_Y(y)$ 
@@ -58,56 +96,22 @@ Sequential approach vs divide and conquer approach
 [[Total probability theorem]]: $P(B)=\sum_iP(A_i)P(B|A_i)$
 
 
-
-Independence
-[[Independent events]]: 
-$P(A\cap B)=P(A)*P(B)$
-$P(A|B)=P(A)$ 
-[[Conditionally independent events]]: 
-$P(A\cap B|C)=P(A|C)P(B|C)$
-$P(A|B\cap C)=P(A|C)$
-
-DISCRETE RANDOM VARIABLES:
-[[Discrete random variable]]: $X$
-[[Probability mass function]]: $p_X(x)$
-[[Joint probability mass function]]: $p_{X,Y}(x,y)=P(X=x,Y=y)$
-[[Marginal probability mass function]]: $p_X(x)=\sum_yp_{X,Y}(x,y)$ 
-[[Conditional probability mass function]]: $p_{X|Y}(x|y)=p_{X,Y}(x,y)/p_Y(y)$
-
-
-Sequential approach vs divide and conquer approach
-[[Multiplication rule]]: $p_{X,Y}(x,y)=p_Y(y)p_{X|Y}(x|y)$
-[[Total probability theorem]]: $p_X(x)=\sum_yp_Y(y)p_{X|Y}(x|y)$
-
-
-Independence
-[[Independent discrete random variable]]: 
-$p_{X,Y}(x,y)=p_X(x)p_Y(y)$
-$p_{X|Y}(x|y)=p_X(x)$
-[[Conditionally independent discrete random variables]]: 
-$P_{X,Y|A}(x,y)=p_{X|A}(x)p_{Y|A}(y)$
-$p_{X|Y,A}(x|y)=p_{X|A}(x)$
-
-CONTINUOUS RANDOM VARIABLES:
-[[Continuous random variable]]: $X$
-[[Probability density function]]: $f_X(x)$ 
-[[Joint probability density function]]: $f_{X,Y}(x,y)$
-[[Marginal probability density function]]: $f_X(x)=\int_{-\infty}^\infty f_{X,Y}(x,y)dy$ 
-[[Conditional probability density function]]: $f_{X|A}(x|A)$ 
-
-Independence:
-[[Independent continuous random variable]]:
-$f_{X,Y}(x,y)=f_X(x)f_Y(y)$
-$f_{X|Y}(x|y)=f_X(x)$
-[[Conditionally independent continuous random variables]]:
-
-
-[[Cumulative distribution function]]: $F_X(x)$
-[[Joint cumulative distribution function]]: $F_{X,Y}(x,y)$ 
-[[Normalization property]]: #TODO nvm, just add some shit to pdf-s and pmf-s
+[[Normalization property]]: #TODO just add some shit to pdf-s and pmf-s. property of the axioms
 
 
 
+
+
+Functions on a continuous random variable: #TODO 
+$$F_Y(y)=P(g(X)\leq y)=\int_{\{x|g(x)\leq y\}}f_X(x)\;dx$$
+$$f_Y(y)=\frac{dF_Y}{dy}(y)$$
+if $Y=aX+b$, then:
+$$f_Y(y)=\frac{1}{|a|}f_X\left(\frac{y-b}{a}\right)$$
+if $f$ is [[Monotonity|monotonically increasing or decreasing]], and $h$ is its [[Inverse function|inverse]], then:
+$$f_Y(y)=f_X(h(y))\left|\frac{dh}{dy}(y)\right|$$
+
+
+Functions of multiple random variables: #TODO 
 
 
 
@@ -130,7 +134,7 @@ SPECIFIC RANDOM VARIABLES
 [[Continuous uniform random variable]]
 [[Exponential random variable]]
 [[Normal random variable]]
-
+[[Laplace distribution]]
 
 
 

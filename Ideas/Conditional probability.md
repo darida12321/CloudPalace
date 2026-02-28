@@ -1,7 +1,7 @@
 **Conditional probability** calculates the probability of an [[Random event|event]] $A$, given that $B$ happened (so $P(B)>0$). We denote this with $P(A|B)$. 
 $$P(A|B)=\frac{P(A\cap B)}{P(B)}$$
 
-This specifies a new [[Probability law|probability law]] where the [[Sample spaces|sample space]] is $B$. It follows [[Kolmogorov’s axiomatization]]:
+This specifies a new [[Probability law|probability law]] where the [[Sample space|sample space]] is $B$. It follows [[Kolmogorov’s axiomatization]]:
 - **Nonnegativity**: $\forall A.P(A|B)\geq 0$
 - **Normalization**: $P(\Omega|B)=P(\Omega\cap B)/P(B)=P(B)/P(B)=1$
 - **Additivity**: 
@@ -16,6 +16,6 @@ P(A_1\cup A_2|B)&=\frac{P((A_1\cup A_2)\cap B)}{P(B)} \\
 \end{align}
 $$
 
-
+#TODO format as proof
 
 

@@ -1,1 +1,1 @@
-**Continuous random variables** are [[Random variable|random variables]] where the [[Sample spaces|sample space]] is continuous. It has an assigned [[Probability density function|probability density function]] (PDF).
+**Continuous random variables** are [[Random variable|random variables]] where the [[Sample space|sample space]] is continuous. It has an assigned [[Probability density function|probability density function]] (PDF).

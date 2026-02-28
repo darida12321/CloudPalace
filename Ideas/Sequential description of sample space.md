@@ -1,4 +1,4 @@
-In probabilistic events, the [[Sample spaces|sample space]] often has the structure of sequential events. In this case, thinking of it as a [[Tree graph|tree graph]] can help simplify the model.
+In probabilistic events, the [[Sample space|sample space]] often has the structure of sequential events. In this case, thinking of it as a [[Tree graph|tree graph]] can help simplify the model.
 
 > [!example]-
 > In this experiment we throw a dice. If it lands on a 6, we throw a second time.
