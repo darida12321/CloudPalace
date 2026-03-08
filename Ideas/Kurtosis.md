@@ -1,0 +1,1 @@
+The **kurtosis** of a [[Random variable|random variable]] $X$ is the fourth [[Standardized moment|standardized moment]]. It denotes the "pointiness" of a distribution.

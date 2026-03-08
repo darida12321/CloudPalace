@@ -4,9 +4,6 @@ This is generalizable for higher dimensions:
 $$f_{X,Y}(x,y)=\int_{-\infty}^\infty f_{X,Y,Z}(x,y,z)\;dz$$
 $$f_Y(y)=\int_{-\infty}^\infty \int_{-\infty}^\infty p_{X,Y,Z}(x,y,z)\;dx\;dz$$
 
-This has the [[Normalization property|normalization property]]:
-$$\int_{-\infty}^\infty \int_{-\infty}^\infty f_{X,Y}(x,y)\;dx\;dy=1$$
-
 
 
 

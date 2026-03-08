@@ -1,0 +1,1 @@
+The **skew** of a [[Random variable|random variable]] $X$ is the third [[Standardized moment|standardized moment]]. It denotes whether or not the distribution "leans" in a certain direction.

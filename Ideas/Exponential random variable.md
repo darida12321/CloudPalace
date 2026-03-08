@@ -7,6 +7,6 @@ f_X(x)=
 \end{cases}
 $$
 
-| [[Expectation\|Mean]] | [[Variance\|Variance]] |
-| --------------------- | ---------------------- |
-| $$1/\lambda$$         | $$1/\lambda^2$$        |
+| [[Mean\|Mean]] | [[Variance\|Variance]] |
+| -------------- | ---------------------- |
+| $$1/\lambda$$  | $$1/\lambda^2$$        |

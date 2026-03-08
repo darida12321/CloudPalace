@@ -6,6 +6,6 @@ p_X(1)&=p
 \end{align}
 $$
 
-The [[Expectation|mean]] is $p$.
+The [[Mean|mean]] is $p$.
 The [[Variance|variance]] is $p(1-p)$.
 

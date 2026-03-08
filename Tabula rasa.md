@@ -1,0 +1,1 @@
+The notion in [[Empiricism]] that everyone is born as a **blank slate**.

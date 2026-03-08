@@ -1,4 +1,7 @@
 
+
+#TODO p5js example depicting kurtosis, etc graphically
+
 # Note taking
 Zettlekasten
 Dewey decimal system

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Ideas  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.4015625,
   "collapse-forces": true,
-  "centerStrength": 0.375,
-  "repelStrength": 11.6666666666667,
+  "centerStrength": 0.203125,
+  "repelStrength": 10.3125,
   "linkStrength": 1,
-  "linkDistance": 128,
-  "scale": 0.18462326225858527,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.2588386562181708,
+  "close": true
 }

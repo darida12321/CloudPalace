@@ -1,0 +1,1 @@
+The **normalization property** is one of the three [[Kolmogorov’s axiomatization|axioms of probability theory]]. However, it is used often in the algebraic manipulation of [[Probability mass function|PMFs]] and [[Probability density function|PDFs]].

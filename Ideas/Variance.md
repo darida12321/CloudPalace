@@ -1,7 +1,6 @@
-The **variance** of a [[Random variable|random variable]] $X$ is defined as $\text{var}(X)=E[(X-E[X])^2]$. Its square root is the [[Standard deviation|standard deviation]]. An easier formula for calculating this uses [[Moment|moments]]: $\text{var}(X)=E[X^2]-(E[X])^2$. 
+The **variance** of a [[Random variable|random variable]] $X$ is the second [[Central moment|central moment]] defined as $\text{var}(X)=E[(X-E[X])^2]$. Its square root is the [[Standard deviation|standard deviation]]. An easier formula for calculating this uses [[Moment|moments]]: $\text{var}(X)=E[X^2]-(E[X])^2$. 
 
 Given a linear [[Functions|function]] $Y=aX+b$, we have $\text{var}(Y)=a^2\text{var}(X)$.
-
 If two [[Random variable|random variables]] are [[Independent discrete random variable|independent]], then $\text{var}(X+Y)=\text{var}(X)+\text{var}(Y)$
 
 >[!proof]-

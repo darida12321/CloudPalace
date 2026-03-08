@@ -1,0 +1,1 @@
+**Plato** had a theory that abstract concepts (*Ideas*, capitalized) exist in a higher, non-physical realm.

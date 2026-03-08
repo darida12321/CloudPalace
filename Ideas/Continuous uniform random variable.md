@@ -7,9 +7,9 @@ f_X(x)=
 \end{cases}
 $$
 
-| [[Expectation\|Mean]] | [[Variance\|Variance]] |
-| --------------------- | ---------------------- |
-| $$\frac{a+b}{2}$$     | $$\frac{(b-a)^2}{12}$$ |
+| [[Mean\|Mean]]    | [[Variance\|Variance]] |
+| ----------------- | ---------------------- |
+| $$\frac{a+b}{2}$$ | $$\frac{(b-a)^2}{12}$$ |
 > [!proof]-
 > We get the value 1/(b-a) by the **normalization property** of [[Continuous random variable|continuous random variables]]. Assuming the constant value is $c$, we get:
 > $$1=\int_{-\infty}^\infty f_X(x)dx=\int_a^bc\;dx=c\int_a^b1dx=c(b-a)$$

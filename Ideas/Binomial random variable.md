@@ -2,5 +2,5 @@ A [[Discrete random variable|discrete random variable]] that takes $n$ identical
 $$p_X(k)={n\choose k}p^k(1-p)^{n-k},\qquad k=0,1,\dots,n.$$
 
 
-The [[Expectation|mean]] is $np$.
+The [[Mean|mean]] is $np$.
 The [[Variance|variance]] is $np(1-p)$.

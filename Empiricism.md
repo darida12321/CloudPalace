@@ -1,0 +1,1 @@
+An [[Epistemology|epistemological view]] that knowledge comes from **sensory experience**. This view implies that everyone is born as a **blank slate** ([[Tabula rasa]]), and develop via **experience**.
