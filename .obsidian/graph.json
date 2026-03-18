@@ -1,12 +1,20 @@
 {
   "collapse-filter": false,
-  "search": "path:Ideas  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.3,
@@ -17,6 +25,6 @@
   "repelStrength": 10.3125,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2588386562181708,
+  "scale": 0.1846232622585878,
   "close": true
 }

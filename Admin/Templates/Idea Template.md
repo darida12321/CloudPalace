@@ -1,6 +1,0 @@
-
-
----
-date: {{date}}
-related:  
-source: 

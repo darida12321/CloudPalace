@@ -73,19 +73,23 @@ Given two [[Random variable|random variables]], that are [[Independent events|in
 # Notable random variables
 Some [[Random variable|random variables]] tend to come up a lot in practice. They have been named, and their [[Mean|mean]] and [[Variance|variance]] are well known.
 
+
+#TODO reorganize all of these to be the same format
+#TODO better writing
+
 ##### Discrete random variables
-[[Discrete uniform random variable]]: A uniformly distributed variable. #TODO 
+[[Discrete uniform random variable]]: A uniformly distributed variable.
 [[Bernoulli random variable]]: Toss a coin, which comes up heads with probability $p$.
 [[Binomial random variable]]: Toss $n$ coins, and count how many came up heads.
 [[Geometric random variable]]: Toss coins until a heads comes up. How many tosses did it take?
 [[Poisson random variable]]: ??? #TODO 
 
 ##### Continuous random variables
-[[Continuous uniform random variable]]: A uniformly distributed variable
+[[Continuous uniform random variable]]: A uniformly distributed variable.
 [[Exponential random variable]]: Distance between randomly occurring events.
 [[Normal random variable]]: Occurs a lot due to the [[Central limit theorem|central limit theorem]]. #TODO
 [[Laplace distribution]] #TODO 
-[[Cauchy distribution]] #TODO
+[[Cauchy distribution]]
 
 
 
