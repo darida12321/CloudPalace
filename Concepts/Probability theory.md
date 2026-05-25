@@ -18,17 +18,17 @@ For solving problems, the [[Normalization property|normalization property]] is o
 | Marginal [[Marginal probability mass function\|PMF]], [[Marginal probability density function\|PDF]], [[Marginal cumulative distribution function\|CDF]] | $$\begin{align}&p_X(x)= \\\sum_y&p_{X,Y}(x,y)\\\end{align}$$ | $$\begin{align}& f_X(x)=\\\int &f_{X,Y}(x,y)\;dy\end{align}$$                                             | $$\begin{align}&F_X(x)=\\\lim_{y\rightarrow\infty}&F_{X,Y}(x,y)\end{align}$$                        |
 | [[Normalization property]]                                                                                                                               | $$\sum_xp_X(x)=1$$                                           | $$\int_{-\infty}^\infty f_X(x)\;dx=1$$                                                                    | $$\begin{align}\lim_{x\rightarrow -\infty}F_X(x)=0\\\lim_{x\rightarrow \infty}F_X(x)=1\end{align}$$ |
 # Conditional probability
-What is the probability of an [[Random event|event]], given that another event has happened (i.e. we have some prior knowledge)? This question comes up a lot in probability theory. We use [[Conditional probability|conditional probability]] as another [[Probability law|probability law]], since it follows [[Kolmogorov’s axiomatization]].
+What is the probability of an [[Random event|event]], given that another event has happened (i.e. we have some prior knowledge)? This question comes up a lot in probability theory. We can use the [[Conditional probability|conditional probability]] as another [[Probability law|probability law]], as it follows [[Kolmogorov’s axiomatization]].
 
-[[Conditional probability]] captures the information that an event provides about another event. However, there is a special case, where 2 events do not provide any information about each other. These are called [[Independent events|independent events]]. Three or more [[Independent events|independent events]] does not imply that any two of those are also [[Independent events|independent]]
+[[Conditional probability]] captures the information that an event provides about another event. However, there is a special case, where 2 events do not provide any information about each other. These are called [[Independent events|independent events]].
 
-Two [[Random event|events]] can also be [[Conditionally independent events|conditionally independent]]. It's worth noting that this does not imply regular [[Independent events|independence]], and vice versa.
+Two or more [[Random event|events]] can also be [[Conditionally independent events|conditionally independent]]. This does not imply regular [[Independent events|independence]], and vice versa.
 
-|                                                                                                                                                                         | [[Probability law\|Probability]]                                                | [[Discrete random variable\|Discrete variable]]                          | [[Continuous random variable\|Continuous variable]]                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [[Conditional probability]]:<br>([[Conditional probability mass function\|PMF]], [[Conditional probability density function\|PDF]])                                     | $$P(A\vert B)=\frac{P(A\cap B)}{P(B)}$$                                         | $$p_{X\vert Y}(x\vert y)$$                                               | $$f_{X\vert Y}(x\vert y)$$                                               |
-| [[Independent events]]:<br>([[Independent discrete random variable\|PMF]], [[Independent continuous random variable\|PDF]])                                             | $$\begin{align}P(A\cap B)&=P(A)P(B)\\&\text{or}\\P(A\vert B)&=P(A)\end{align}$$ | $$\begin{align}p_{X,Y}(x,y)=\\p_X(x)p_Y(y)\end{align}$$                  | $$\begin{align}f_{X,Y}(x,y)=\\f_X(x)f_Y(y)\end{align}$$                  |
-| [[Conditionally independent events]]:<br>([[Conditionally independent discrete random variables\|PMF]], [[Conditionally independent continuous random variables\|PDF]]) | $$P(A\vert B\cap C)=P(A\vert C)$$                                               | $$\begin{align}&p_{X\vert Y,A}(x\vert y)\\&=p_{X\vert A}(x)\end{align}$$ | $$\begin{align}&f_{X\vert Y,A}(x\vert y)\\&=f_{X\vert A}(x)\end{align}$$ |
+|                                                                                                                                                                         | [[Probability law\|Probability]]                                                | [[Discrete random variable\|Discrete variable]]                                    | [[Continuous random variable\|Continuous variable]]                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [[Conditional probability]]:<br>([[Conditional probability mass function\|PMF]], [[Conditional probability density function\|PDF]])                                     | $$P(A\vert B)=\frac{P(A\cap B)}{P(B)}$$                                         | $$\begin{align}&p_{X\vert Y}(x\vert y)\\=&\frac{p_{X,Y}(x,y)}{p_Y(y)}\end{align}$$ | $$\begin{align}&f_{X\vert Y}(x\vert y)\\=&\frac{f_{X,Y}(x,y)}{f_Y(y)}\end{align}$$ |
+| [[Independent events]]:<br>([[Independent discrete random variable\|PMF]], [[Independent continuous random variable\|PDF]])                                             | $$\begin{align}P(A\cap B)&=P(A)P(B)\\&\text{or}\\P(A\vert B)&=P(A)\end{align}$$ | $$\begin{align}p_{X,Y}(x,y)=\\p_X(x)p_Y(y)\end{align}$$                            | $$\begin{align}f_{X,Y}(x,y)=\\f_X(x)f_Y(y)\end{align}$$                            |
+| [[Conditionally independent events]]:<br>([[Conditionally independent discrete random variables\|PMF]], [[Conditionally independent continuous random variables\|PDF]]) | $$P(A\vert B\cap C)=P(A\vert C)$$                                               | $$\begin{align}&p_{X\vert Y,A}(x\vert y)\\&=p_{X\vert A}(x)\end{align}$$           | $$\begin{align}&f_{X\vert Y,A}(x\vert y)\\&=f_{X\vert A}(x)\end{align}$$           |
 # Mean, variance and beyond
 The distributions of a [[Random variable|random variable]] can be quite complex. However, we often don't care about the fine details, and just want to know the general "shape" of the distribution.
 
@@ -38,12 +38,12 @@ If we set the [[Mean|mean]] to 0 and the [[Variance|variance]] to 1, we get a **
 
 To aid with the calculation of expectations, we can use the [[Total expectation theorem|total expectation theorem]], which is the equivalent of the [[Total probability theorem|total probability theorem]]. $E[X]=\sum_{i=1}^nP(A_i)E[gX|A_i]$
 
-| Name         | Description                                         | Definition                                                            |
-| :----------- | --------------------------------------------------- | --------------------------------------------------------------------- |
-| [[Mean]]     | First [[Moment\|moment]]                            | $$\mu=E[X]$$                                                          |
-| [[Variance]] | Second [[Central moment\|central moment]]           | $$\begin{align}\sigma^2&=E[(X-E[X])^2\\&=E[X^2]-(E[X])^2\end{align}$$ |
-| [[Skew]]     | Third [[Standardized moment\|standardized moment]]  | $$\frac{\mu_3}{\sigma^3}=\frac{E[(X-\mu)^3]}{(E[(X-\mu)^2])^{3/2}}$$  |
-| [[Kurtosis]] | Fourth [[Standardized moment\|standardized moment]] | $$\frac{\mu_4}{\sigma^4}=\frac{E[(X-\mu)^4]}{(E[(X-\mu)^2])^{4/2}}$$  |
+| Name         | Description                                         | Definition                                                                             |
+| :----------- | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [[Mean]]     | First [[Moment\|moment]]                            | $$\mu=E[X]$$                                                                           |
+| [[Variance]] | Second [[Central moment\|central moment]]           | $$\begin{align}&=\text{var}(X)\\\sigma^2&=E[(X-E[X])^2\\&=E[X^2]-(E[X])^2\end{align}$$ |
+| [[Skew]]     | Third [[Standardized moment\|standardized moment]]  | $$\frac{\mu_3}{\sigma^3}=\frac{E[(X-\mu)^3]}{(E[(X-\mu)^2])^{3/2}}$$                   |
+| [[Kurtosis]] | Fourth [[Standardized moment\|standardized moment]] | $$\frac{\mu_4}{\sigma^4}=\frac{E[(X-\mu)^4]}{(E[(X-\mu)^2])^{4/2}}$$                   |
 
 # Probability theorems
 Given these definitions, we can start developing some theorems that help us solve probability problems. We will explain them using regular [[Probability law|probabilities]], however, they also apply to [[Random variable|random variables]].
@@ -82,7 +82,7 @@ Some [[Random variable|random variables]] tend to come up a lot in practice. The
 [[Bernoulli random variable]]: Toss a coin, which comes up heads with probability $p$.
 [[Binomial random variable]]: Toss $n$ coins, and count how many came up heads.
 [[Geometric random variable]]: Toss coins until a heads comes up. How many tosses did it take?
-[[Poisson random variable]]: ??? #TODO 
+[[Poisson random variable]]: A **binomial** with a small $p$ and large $n$. #TODO better needed
 
 ##### Continuous random variables
 [[Continuous uniform random variable]]: A uniformly distributed variable.
@@ -91,10 +91,15 @@ Some [[Random variable|random variables]] tend to come up a lot in practice. The
 [[Laplace distribution]] #TODO 
 [[Cauchy distribution]]
 
+# Fun corner 
+#TODO better name
+[[Monty hall problem|Monty hall problem]]
+[[Boy or girl paradox|Boy or girl paradox]]
+[[Two envelopes paradox]] #TODO example 2.18
+
+
 
 
 ---
-sources:
-- Interpretations of Probability: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/probability-interpret/)
-- Math: [Bertsekas Tsitsiklis Introduction to probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
+source: [Bertsekas Tsitsiklis Introduction to probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
 

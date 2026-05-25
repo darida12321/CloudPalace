@@ -1,4 +1,4 @@
-
+obsidian workspace
 
 #TODO p5js example depicting kurtosis, etc graphically
 
@@ -11,7 +11,7 @@ hierarchical organization
 science of learning
 neuroscience
 spaced repetition
-
+obsidian markdown
 
 
 

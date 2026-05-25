@@ -3,7 +3,7 @@ The **expected value** (also called **expectation** or [[Mean|mean]]) of a [[Ran
 |                     | [[Discrete random variable\|Discrete]] | [[Continuous random variable\|Continuous]]   |
 | :------------------ | -------------------------------------- | -------------------------------------------- |
 | Expectation         | $E[X]=\sum_xxp_X(x)$                   | $E[X]=\int_{-\infty}^\infty xf_X(x)dx$       |
-| Expected value rule | $E[f(X)]=\sum_xf(x)p_X(x)$             | $E[f(X)]=\int_{-\infty}^\infty f(x)f_X(x)dx$ |
+| Expected value rule | $E[g(X)]=\sum_xg(x)p_X(x)$             | $E[g(X)]=\int_{-\infty}^\infty g(x)f_X(x)dx$ |
 
 ##### Applying functions
 The [[Expectation|expectation]] is: $E[g(X)]=\sum_x g(x)p_X(x)$ 

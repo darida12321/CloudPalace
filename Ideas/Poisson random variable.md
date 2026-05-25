@@ -3,8 +3,9 @@ $$p_X(k)=e^{-\lambda}\frac{\lambda^k}{k!},\qquad k=0,1,\dots$$
 The [[Mean|mean]] is $\lambda$.
 The [[Variance|variance]] is $p(1-p)$.
 
-Calculation for the [[Mean|mean]] of the **Poisson random variable**. The last step is achieved by the normalization property of $p_X(m)$.
-$$
+> [!proof]-
+> Calculation for the [[Mean|mean]] of the **Poisson random variable**. The last step is achieved by the normalization property of $p_X(m)$.
+> $$
 \begin{align}
 E[X] &= \sum_{k=0}^\infty ke^{-\lambda}\frac{\lambda^k}{k!} \\
 &= \sum_{k=1}^\infty ke^{-\lambda}\frac{\lambda^k}{k!}\qquad\text{the }k=0\text{ term is zero} \\

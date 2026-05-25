@@ -25,3 +25,6 @@ Here are some of the leading interpretations:
 - [[The best-system interpretation of probability|Best-system]]: Probability is a human-made theory that systematizes observations.
 
 The most widely used interpretation is the [[The subjective interpretation of probability|subjective]] one. It gained popularity due to recent advances in [[Epistemology|epistemology]].
+
+---
+source: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/probability-interpret/)

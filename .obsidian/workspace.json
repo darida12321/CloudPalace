@@ -8,17 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d8b44f2ab2cfc93",
+            "id": "32d56a39b57c3db9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Philosophy of mathematics.md",
-                "mode": "preview",
+                "file": "Ideas/Tisket, A Tasket.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy of mathematics"
+              "title": "Tisket, A Tasket"
+            }
+          },
+          {
+            "id": "320bc39ad0b02c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Probability theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability theory"
+            }
+          },
+          {
+            "id": "a0b52a31188d129f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Variance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variance"
+            }
+          },
+          {
+            "id": "6489e104866ece11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Expectation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expectation"
+            }
+          },
+          {
+            "id": "be452634885ae6b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Functions on a random variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions on a random variable"
+            }
+          },
+          {
+            "id": "86cee666255f1a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Bernoulli random variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bernoulli random variable"
+            }
+          },
+          {
+            "id": "db6df823dcc9725f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Binomial random variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binomial random variable"
+            }
+          },
+          {
+            "id": "2ed333e4b639d233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Combinations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combinations"
             }
           }
         ]
@@ -94,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Philosophy of mathematics.md",
+                "file": "Ideas/Tisket, A Tasket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Philosophy of mathematics"
+              "title": "Backlinks for Tisket, A Tasket"
             }
           },
           {
@@ -113,12 +211,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Philosophy of mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Philosophy of mathematics"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,34 +277,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d8b44f2ab2cfc93",
+  "active": "cac46245d324bdc9",
   "lastOpenFiles": [
-    "Admin/Attachments/Venn diagram.png",
-    "Concepts/Philosophy of mathematics.md",
+    "Concepts/Python.md",
     "Concepts/Probability theory.md",
-    "Concepts/Philosophy of probability.md",
-    "Admin/Templates/Idea Template.md",
-    "Ideas/Continuous uniform random variable.md",
-    "Ideas/Discrete uniform random variable.md",
-    "Ideas/Conceptual metaphor.md",
-    "Ideas/Cognitive unconscious.md",
-    "Ideas/Tabula rasa.md",
-    "Ideas/Skew.md",
-    "Ideas/Kurtosis.md",
-    "Ideas/Standardized moment.md",
-    "Ideas/Mean.md",
-    "Ideas/Variance.md",
-    "Ideas/Moment.md",
-    "Ideas/Central moment.md",
-    "Ideas/Expectation.md",
-    "Admin/TODO.md",
-    "Ideas/De Morgan's laws.md",
-    "Ideas/Standard deviation.md",
-    "Ideas/Binomial random variable.md",
-    "Ideas/Exponential random variable.md",
-    "Ideas/Geometric random variable.md",
-    "Ideas/Normal random variable.md",
+    "Ideas/Jingle Bells.md",
+    "Ideas/Ode to Joy.md",
+    "Ideas/Tisket, A Tasket.md",
+    "Admin/Mind palace/Music pieces.md",
+    "Ideas/Abc information fields.md",
+    "Ideas/Mexican Hat Dance.md",
+    "Ideas/Abc notation.md",
+    "Ideas/Brother Johnes.md",
+    "Ideas/Aunt Rhody.md",
+    "Ideas/Combinations.md",
+    "Ideas/Abc tune body.md",
+    "Ideas/Obsidian ABC Music Notation plugin.md",
+    "Ideas/Abc file.md",
+    "Ideas/Number of partitions.md",
+    "Ideas/Partition of a set.md",
     "Ideas/Poisson random variable.md",
+    "Ideas/Binomial random variable.md",
+    "Ideas/Conditional expectation.md",
+    "Ideas/Variance.md",
+    "Ideas/Independent discrete random variable.md",
+    "Ideas/Expectation.md",
+    "Ideas/Mean.md",
+    "Ideas/Functions on a random variable.md",
+    "Ideas/Functions on a continuous random variable.md",
+    "Admin/Mind palace",
+    "Admin/Attachments/Venn diagram.png",
     "New folder",
     "Admin",
     "Admin/Templates",
