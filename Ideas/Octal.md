@@ -1,0 +1,1 @@
+**Octal** is a way of representing number in [[Number base|base 8]]. It's used to represent [[Binary|binary]] numbers in a more human-readable format for some old machines that used **6-bit**, **12-bit**, **24-bit** or **36-bit** segments.

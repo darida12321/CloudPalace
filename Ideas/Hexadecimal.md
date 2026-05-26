@@ -1,0 +1,1 @@
+Hexadecimal is a way of representing number in [[Number base|base 16]]. It's used to represent [[Binary|binary]] numbers in a more human-readable format.

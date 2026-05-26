@@ -28,9 +28,45 @@ Python defines a few types by default:
 - [ ] type functions
 
 
+# Default Types
+
+##### Operators
+Boolean operators: `not x`, `x and y`, `x or y`.
+Objects are `True`, unless they have a `__bool__()` that's `False`, or a `__len__()` that's `0`.
+Numerics are `True` unless their value is `0`.
+
+
+Comparisons: `<`, `<=`, `>`, `>=`, `==`, `!=`, `is`, `is not`, `in`, `not in`.
+For `<`, `<=`, `>`, `>=`, `==`: Instances are generally not equal and incomparable, unless `__lt__()`, `__le__()`, `__gt__()`, `__ge__()` and `__eq__()` are defined. These can be inferred from `__lt__()` and `__eq__()` alone.
+For `is`, `is not`: Compares if two objects are the same. (have the same `id()`)
+For `in`, `not in`: They apply to **iterable** objects, or ones that implement `__contains__()`
+
+##### Numeric types
+Integer: arbitrary precision
+- subtype: Boolean.
+Floats: double in C
+Complex numbers: two floats.
 
 
 
+
+
+numerics
+sequences
+mappings
+classes
+instances
+exceptions
+
+
+
+
+
+
+
+
+
+# Default functions
 
 ```python
 # Math

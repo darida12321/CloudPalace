@@ -1,0 +1,1 @@
+Binary is a way of representing number in [[Number base|base 2]]. It's used by computers to actually store data.

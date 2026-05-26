@@ -1,0 +1,1 @@
+**Unsigned integers** can simply be stored in [[Binary|binary]] format. They are usually stored on 1 byte, 2 bytes or 4 bytes.
