@@ -34,7 +34,7 @@ w: _ \|[1 _ :\|[2 _ [\| _ :: _ \|]
 T: Symbols
 L:1/4
 (B B (B B) B) | (3B B B | .B ~B HB LB MB OB PB SB TB uB vB
-w: (B B (B B) B) | (3B B B | . \~ H L M O P S T u v
+w: (B B (B B) B) | (3B B B | . \~ H L M O P S T u v 
 ```
 ```abc
 T: Decorations

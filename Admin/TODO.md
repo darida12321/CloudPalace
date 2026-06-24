@@ -83,6 +83,14 @@ Jun 7 (sun), Jun 28 (sun),
 printer: brother HL-L1242W
 
 ---
+philips razor: https://www.amazon.co.uk/Prestige-Technology-Precision-XP9404-31/dp/B0DT6PZD5L
+philips replacement: https://www.amazon.co.uk/Philips-SH91-50-Replacement-SteelPrecision/dp/B0937DT67K
+
+philips trimmer: https://www.amazon.co.uk/Philips-Multigroom-7000-19-Piece-Trimmer/dp/B0FJM2CGKJ?crid=2WBSBCEQQ8DJF
+probably this trimmer
+
+
+
 - stone fixer TODO
 - chopping board oiler TODO
 - pairing knife TODO
@@ -92,7 +100,7 @@ temperature meter: amazon
 
 wok: 
 
-
+ssssss
 - citrus juicer
 	- £20 https://hemlockhardware.com/products/644594-amco-2-in-1-citrus-juicer
 
