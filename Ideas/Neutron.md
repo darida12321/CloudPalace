@@ -1,0 +1,1 @@
+A subatomic particle with a neutral [[Electromagnetism|electric charge]]. They are composed of one up, and two down [[Quark|quarks]], held together by the [[Strong force|strong force]].

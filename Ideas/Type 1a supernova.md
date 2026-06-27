@@ -1,0 +1,1 @@
+When a [[White dwarf]] feeds on and another star in a binary system goes [[Supernova|supernova]]. It always happens at the same size, so the result is consistent, and can be used as a standard candle.

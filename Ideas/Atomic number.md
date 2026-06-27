@@ -1,0 +1,1 @@
+The number of [[Proton|protons]] in an atom.

@@ -1,0 +1,1 @@
+An element in the [[Standard model|standard model]]. It has a negative [[Electromagnetism|electric charge]].

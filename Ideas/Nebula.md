@@ -1,0 +1,1 @@
+A [[Gas|gas]] cloud in space. Mostly [[Hydrogen|hydrogen]] and [[Helium|helium]].

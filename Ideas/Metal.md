@@ -1,0 +1,1 @@
+A **metal** is a material that shows a lustrous appearance. It's made of [[Atom|atoms]] that form a **metallic bond**.

@@ -1,4 +1,5 @@
 [[Pots and pans]] #TODO finish
+[[Cutlery]]
 
 [[Fridge]]
 
@@ -19,11 +20,6 @@ Recipes
 
 [[Scrambled egg fluffy]]
 [[Scrambled egg creamy]]
-
-
-
-
-
 
 
 [[Hollandaise sauce]]

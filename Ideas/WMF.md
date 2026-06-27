@@ -1,0 +1,1 @@
+A [[Germany|German]] kitchenware company, creating heavy and industrial designs. 

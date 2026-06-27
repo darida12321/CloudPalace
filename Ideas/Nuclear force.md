@@ -1,0 +1,1 @@
+This is the residual [[Strong force|strong force]].

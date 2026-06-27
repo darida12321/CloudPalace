@@ -1,0 +1,1 @@
+[[Atom|Atoms]] with the same [[Atomic number|atomic number]], but differing amount of [[Neutron|neutrons]]. If the resulting [[Nucleus|nucleus]] is not [[Radioactivity|radioactive]], then it's called a **stable isotope**.

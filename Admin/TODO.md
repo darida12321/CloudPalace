@@ -83,12 +83,39 @@ Jun 7 (sun), Jun 28 (sun),
 printer: brother HL-L1242W
 
 ---
-philips razor: https://www.amazon.co.uk/Prestige-Technology-Precision-XP9404-31/dp/B0DT6PZD5L
-philips replacement: https://www.amazon.co.uk/Philips-SH91-50-Replacement-SteelPrecision/dp/B0937DT67K
+---
+---
 
-philips trimmer: https://www.amazon.co.uk/Philips-Multigroom-7000-19-Piece-Trimmer/dp/B0FJM2CGKJ?crid=2WBSBCEQQ8DJF
-probably this trimmer
+- [ ] trimmer 
+	- $50 amazon https://www.amazon.co.uk/Philips-Multigroom-7000-19-Piece-Trimmer/dp/B0FJM2CGKJ?crid=2WBSBCEQQ8DJF
+- [ ] food scale:
+	- £54 amazon: https://www.amazon.co.uk/OXO-Grips-Stainless-Pull-Out-Display/dp/B079D9B82W
+- [ ] file organizer:
+	- amazon £10 https://www.amazon.co.uk/Organiser-Accordion-Expanding-Document-Paperwork/dp/B0FWC49N7T
 
+- citrus juicer
+	- amazon £12 https://www.amazon.co.uk/Joseph-Joseph-JuiceMax-Dual-Action-Citrus/dp/B08QGZT4YQ
+- wooden spoon:
+	- £12 amazon https://www.amazon.co.uk/Cooking-Natural-Nonstick-Resistant-Utensils/dp/B0F13FJ278
+- slotted flexible metal spatula
+	- £9 amazon https://www.amazon.co.uk/Taylors-Eye-Witness-Stainless-Steel/dp/B0FP2SFWHS
+- wide spatula
+	- £40 amazon https://www.amazon.co.uk/DUE-BUOI-dimension-Non-stick-Approved/dp/B0D1RMCW5P
+- vegetable slicer
+	- £38 amazon: https://www.amazon.co.uk/Benriner-Mandolin-Vegetable-Slicer-6-4cm/dp/B000LCP6EW
+- offset spatula
+	- £6 amazon: https://www.amazon.co.uk/Ateco-Spatula-Rounded-Cranked-Palette/dp/B000WG14FC
+- 12-14 inch carbon steel wok
+	- £40 14-inch school of wok https://schoolofwok.co.uk/shop/woks/14-carbon-steel-wok-12322006
+
+280
+
+
+
+
+
+- food processor:
+	- £320 14cup: https://www.williams-sonoma.com/products/cuisinart-14-cup-custom-food-processor/
 
 
 - stone fixer TODO
@@ -96,43 +123,10 @@ probably this trimmer
 - pairing knife TODO
 - milligram scale TODO
 
-temperature meter: amazon
-
-wok: 
-
-ssssss
-- citrus juicer
-	- £20 https://hemlockhardware.com/products/644594-amco-2-in-1-citrus-juicer
 
 Pans:
-- 12-14 inch carbon steel wok
-	- £40 14-inch school of wok https://schoolofwok.co.uk/shop/woks/14-carbon-steel-wok-12322006
 - boning knife:
 	- £110 amazon https://www.amazon.co.uk/W%C3%BCsthof-Ausbeinmesser-1040101416-Klingenl%C3%A4nge-geschmiedet/dp/B085V5MX84
-
-
-
-electric tools:
-- food scale:
-	- £54 amazon: https://www.amazon.co.uk/OXO-Grips-Stainless-Pull-Out-Display/dp/B079D9B82W
-- food processor:
-	- £320 11cup: https://www.amazon.co.uk/Cuisinart-DLC-8SBCY-Custom-Processor-Brushed/dp/B01AXM4VPY
-	- £320 14cup: https://www.williams-sonoma.com/products/cuisinart-14-cup-custom-food-processor/
-
-
-essential tools:
-
-- wooden spoon:
-	- £12 amazon https://www.amazon.co.uk/Cooking-Natural-Nonstick-Resistant-Utensils/dp/B0F13FJ278
-- slotted flexible metal spatula
-	- £9 amazon https://www.amazon.co.uk/Taylors-Eye-Witness-Stainless-Steel/dp/B0FP2SFWHS
-
-- wide spatula
-	- £40 amazon https://www.amazon.co.uk/DUE-BUOI-dimension-Non-stick-Approved/dp/B0D1RMCW5P
-- vegetable slicer
-	- £38 amazon: https://www.amazon.co.uk/Benriner-Mandolin-Vegetable-Slicer-6-4cm/dp/B000LCP6EW
-- offset spatula
-	- £6 amazon: https://www.amazon.co.uk/Ateco-Spatula-Rounded-Cranked-Palette/dp/B000WG14FC
 
 
 

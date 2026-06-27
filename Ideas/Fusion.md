@@ -1,0 +1,1 @@
+Under extreme pressures, atomic [[Nucleus|nuclei]] **fuse** together to become heavier elements. This releases energy.
