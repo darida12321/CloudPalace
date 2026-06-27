@@ -17,9 +17,12 @@ Recipes
 [[Hard-boiled egg]]
 [[Poached egg]]
 [[Fried egg]]
-
+[[Diner-style omelette]]
+[[Tender omelette]]
 [[Scrambled egg fluffy]]
 [[Scrambled egg creamy]]
+
+[[Fried bacon]]
 
 
 [[Hollandaise sauce]]
