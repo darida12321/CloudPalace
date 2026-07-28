@@ -1,0 +1,1 @@
+The best way to cut them is by chopping in half, gutting it out, then cutting skin-side down with a sharp knife.

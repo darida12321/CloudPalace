@@ -1,3 +1,4 @@
+
 A way of assigning a [[Binary|binary]] value to text. Given [[ANSI]]'s problems, people wanted to create a **universal encoding** where every character of every language could be represented.
 
 This was a huge undertaking, as languages are very diverse. You need to represent:

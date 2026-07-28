@@ -1,0 +1,1 @@
+The **symmetric difference** of two [[Set|sets]] $S$ and $T$ is $S\triangle T=\{x|x\in S\oplus x\in T\}$.

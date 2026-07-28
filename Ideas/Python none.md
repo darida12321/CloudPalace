@@ -1,0 +1,1 @@
+There is only one [[Python object|object]] with the **None** [[Python types module|type]], `None`. It marks the absence of value.

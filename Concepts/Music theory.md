@@ -28,6 +28,12 @@ To break things up, you can play a chord in a different order ([[Inversion|inver
 [[Scale]]
 
 
+C major, A minor
+D minor
+
+G major
+D major
+
 
 
 [[LilyPond]] piano music notation

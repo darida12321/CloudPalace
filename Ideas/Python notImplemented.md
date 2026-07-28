@@ -1,0 +1,1 @@
+There is only one [[Python object|object]] with the **NotImplemented** type, `NotImplemented`. It marks when numeric methods or comparisons haven't implemented something for a type. Then [[CPython]] will try the reverse operation or some other fallback.

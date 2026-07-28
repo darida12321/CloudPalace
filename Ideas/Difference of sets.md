@@ -1,0 +1,1 @@
+The **difference** of two [[Set|sets]] $S$ and $T$ is $S\setminus T=\{x|x\in S\land x\notin T\}$.

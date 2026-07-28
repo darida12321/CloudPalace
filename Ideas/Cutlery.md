@@ -21,9 +21,15 @@ Different companies have multiple **sets**. These are all unique.
 - [[WMF]]: German company. Heavy, industrial designs.
 - [[ProCook]]: A decent consumer-grade option.
 
+#TODO finish and format into grid
 ##### Examples I like
 Robert Welch:
 - £105 [Radford Bright set](https://www.robertwelch.com/products/radford-bright-cutlery-set-16-piece-for-4-people)  (wider set)
+- Malven: Big utensils.
+- Stanton: Fork curvy one way, knife curvy another. (got a knife, spoon and fork)
+- Kingham: Back of fork has that arch.
+- Radford: Bottom of the fork curves back up.
+- Arden: Extremely thin.
 WMF: 
 - £90 [Philadelphia set](https://www.wmf.com/de/en/cutlery-set-philadelphia-cromargan-high-quality-stainless-steel-30-piece-3201112495.html) (wider set)
 ProCook: 

@@ -3,7 +3,7 @@ Very versatile and good source of protein. Due to the complex protein structures
 ##### Anatomy of an egg
 - **Egg white**: 
 	- Mostly water.
-	- **Ovalbumin**, **ovomucin**, **ovotransferrin**: Complex proteins that let the yolk set in different textures when cooked, or form a creamy substance when whipped.
+	- **Ovalbumin**, **ovomucin**, **ovotransferrin**, **globulin**: Complex proteins that let the yolk set in different textures when cooked, or form a creamy substance when whipped.
 - **Egg yolk**: Nutritive source where 75% of calories are stored.
 	- Mostly a sack of water with dissolved proteins.
 	- Larger masses of proteins connected with **lecithin**.
