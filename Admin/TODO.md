@@ -1,8 +1,29 @@
 
 
-inflatable bed size: 132 x 186
+source: [Python for Data Analysis Third Edition](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf)
 
 
+---
+
+
+
+communism union thingy:
+
+- laws? who decides/upholds them? case by case? charismatic leaders emerging?
+- scarcity of resources? who gets it, who decides?
+- how should global policies be decided?
+	- Fusion: 80% of the world cooperating, but a rare resource's owners don't cooperate
+	- Vaccines: everyone must get onboard to get rid of malaria
+	- Virology/nuclear power: one mistake will alter the world. the world should have a say
+- 
+
+
+
+---
+
+inflatable bed size: 132cm x 186cm
+
+---
 
 
 

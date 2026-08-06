@@ -1,0 +1,71 @@
+Python has a number of built-in [[Python exception|exceptions]] you can use or inherit from.
+
+##### Exception Hierarchy
+- `BaseException`: The base exception everything else inherits from.
+	- `BaseExceptionGroup`: When multiple exceptions need to be thrown.
+	- `GeneratorExit`: When a [[Python callable|generator function]] fails. Not technically an error.
+	- `KeyboardInterrupt`: When a user hits the interrupt key (usually `ctrl-c`)
+	- `SystemExit`: Raised by `sys.exit()` from the [[Python sys module|sys module]].
+	- `Exception`: All non-system-exiting **exceptions**. User-defined ones should be here.
+		- `ArithmeticError`: Base class for built-in arithmetic errors.
+			- `FloatingPointError`: Unused.
+			- `OverflowError`: When an operation's result is too large to be represented.
+			- `ZeroDivisionError`: When something is divided by 0.
+		- `AssertionError`: When an `assert` [[Python statements|statement]] fails.
+		- `AttributeError`: When an attribute access fails. Has `obj` and `name` fields.
+		- `BufferError`: When a buffer-related operation cannot be performed.
+		- `EOFError`: When `input()` function hits end-of-file without having read data.
+		- `ExceptionGroup [BaseExceptionGroup]`: 
+		- `ImportError`: When an `import` can't find a module. Has `name` and `path` fields.
+			- `ModuleNotFoundError`: When an `import` couldn't load a module.
+		- `LookupError`: Base class for exceptions where a key/index is invalid.
+			- `IndexError`: When an index is out of range.
+			- `KeyError`: When a mapping key is accessed, but doesn't exist.
+		- `MemoryError`: When an operation runs out of memory. Recoverable.
+		- `NameError`: When a local or `global` variable is not found.
+			- `UnboundLocalError`: When a variable is accessed, but hasn't been set yet.
+		- `OSError`: When a system function has a system-related error.
+			- `BlockingIOError`: When a supposedly non-blocking operation gets blocked.
+			- `ChildProcessError`: When an operation on a child process fails.
+			- `ConnectionError`: Base class for connection-related issues.
+				- `BrokenPipeError`: When trying to write to a pipe whose other half is closed.
+				- `ConnectionAbortedError`: When a connection attempt is aborted by a peer.
+				- `ConnectionRefusedError`: When a connection attempt is refused by a peer.
+				- `ConnectionResetError`: When a connection is reset by a peer.
+			- `FileExistsError`: When creating a file that already exists.
+			- `FileNotFoundError`: When reading a file that doesn't exist.
+			- `InterruptedError`: When a system call is interrupted by an oncoming signal.
+			- `IsADirectoryError`: When a file operation is targeting a directory.
+			- `NotADirectoryError`: When a dictionary operation is targeting a file.
+			- `PermissionError`: When running an operation without enough access rights.
+			- `ProcessLookupError`: When a process doesn't exist.
+			- `TimeoutError`: When a system function gets timed out by the system.
+		- `ReferenceError`: When a weak reference accesses a garbage-collected object.
+		- `RuntimeError`: When an error is detected, but doesn't fall into other categories.
+			- `NotImplementedError`: When abstract method need an override.
+			- `PythonFinalizationError`: When smth is blocked by an interpreter-shutdown.
+			- `RecursionError`: When the interpreter reaches the maximum recursion depth.
+		- `StopAsyncIteration`: When the `__anext__()` function doesn't have more items.
+		- `StopIteration`: When the `__next__()` function doesn't have more items.
+		- `SyntaxError`: When the parser encounters a syntax error.
+			- `IndentationError`: When the indentation is incorrect.
+				- `TabError`: When there are inconsistent use of tabs and spaces.
+		- `SystemError`: When the interpreter finds an error, but deems it recoverable.
+		- `TypeError`: When an operation is applied to something with the wrong type.
+		- `ValueError`: When an function is applied to something with the wrong value.
+			- `UnicodeError`: When a [[Unicode|unicode]] encoding /decoding error happens.
+				- `UnicodeDecodeError`: When a [[Unicode|unicode]] error happens during decoding.
+				- `UnicodeEncodeError`: When a [[Unicode|unicode]] error happens during encoding.
+				- `UnicodeTranslateError`: When a [[Unicode|unicode]] error happens during translating.
+		- `Warning`: Base class for warning categories
+			- `BytesWarning`: Base class for warnings about [[Python bytes|bytes]] and [[Python bytearray|bytearray]].
+			- `DeprecationWarning`: Warning about deprecated features.
+			- `EncodingWarning`: Base class for warnings about encodings.
+			- `FutureWarning`: Base class for warning about deprecated features.
+			- `ImportWarning`: Base class for warnings about probable mistakes in imports.
+			- `PendingDeprecationWarning`: Warning about soon-to-be deprecated features.
+			- `ResourceWarning`: Base class for warnings about resource usage.
+			- `RuntimeWarning`: Base class for warnings about dubious runtime behaviour.
+			- `SyntaxWarning`: Base class for warnings about syntax.
+			- `UnicodeWarning`: Base class for [[Unicode|unicode]]-related warnings.
+			- `UserWarning`: Base class for warnings generated.
