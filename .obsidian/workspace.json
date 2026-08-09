@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/TODO.md",
+                "file": "Ideas/Yeast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Yeast"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/TODO.md",
+                "file": "Ideas/Yeast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Philosophy of mathematics.md",
+                "file": "Ideas/Yeast.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Philosophy of mathematics"
+              "title": "Outline"
             }
           },
           {
@@ -186,19 +186,19 @@
   },
   "active": "cac46245d324bdc9",
   "lastOpenFiles": [
-    "Ideas/Egg.md",
-    "Flour.md",
-    "Yeast.md",
-    "Baking soda.md",
-    "Vinegar.md",
-    "Baking powder.md",
-    "Cream of tartar.md",
-    "Cornstarch.md",
     "Admin/TODO.md",
+    "Ideas/Egg.md",
+    "Ideas/Flour.md",
+    "Ideas/Yeast.md",
+    "Ideas/Baking soda.md",
+    "Ideas/Vinegar.md",
+    "Ideas/Baking powder.md",
+    "Ideas/Cream of tartar.md",
+    "Ideas/Cornstarch.md",
     "Concepts/Cooking.md",
-    "Buttermilk pancakes.md",
-    "Butter milk.md",
-    "Maillard reaction.md",
+    "Ideas/Buttermilk pancakes.md",
+    "Ideas/Butter milk.md",
+    "Ideas/Maillard reaction.md",
     "Concepts/Music theory.md",
     "Ideas/Cutlery.md",
     "Ideas/Weak force.md",
