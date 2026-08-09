@@ -34,6 +34,8 @@ D minor
 G major
 D major
 
+F major scale: B flat. right hand plays with 4-4 instead of 5-3
+
 
 
 [[LilyPond]] piano music notation

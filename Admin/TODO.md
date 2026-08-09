@@ -1,5 +1,12 @@
 
 
+
+
+
+
+---
+
+
 source: [Python for Data Analysis Third Edition](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf)
 
 
@@ -15,7 +22,28 @@ communism union thingy:
 	- Fusion: 80% of the world cooperating, but a rare resource's owners don't cooperate
 	- Vaccines: everyone must get onboard to get rid of malaria
 	- Virology/nuclear power: one mistake will alter the world. the world should have a say
-- 
+- Set of councils deciding to implement a currency and move to capitalism.
+- it comes up a lot. because it's good, or because it's simple?
+- where's the tradeoff?
+
+[council communism](https://theanarchistlibrary.org/library/mark-shipway-council-communism):
+
+
+
+
+---
+cassie mod pack talk
+
+why no gtnh now? or only in 1-2 years?
+I got a spark. I'm not letting it go out. gtnh would smother it. If it catches ablaze and becomes a stable part of my life, I'll come. if it dies or if it doesn't catch anything for years, I'll come.
+
+why date?
+dating is novel. I'm pushing way out of my comfort zone. and it's something I want to be more comfortable with. that's it.
+
+why not appreciate me?
+I do! these two can coexist. I appreciate you, but also hanging out is not what I need. egress episode? eh nah.
+well actually you do have a point... Like... I'm in this group, and actively saying "no this is not enough" and "I'm not satisfied". And the thing is.... I'm really not. I really am choosing to better myself to move forward with my life.
+But... like am I insane for this?? 
 
 
 

@@ -22,6 +22,14 @@ Very versatile and good source of protein. Due to the complex protein structures
 - 70C-75CL: Suddenly becomes crumbly and pale-yellow.
 - 75C+: The sulfur in the white and the iron in the yolk produce a green  ferrous sulfide.
 
+##### Beating an egg white
+As you beat egg whites, here is what happens:
+- **Foam**: **globulin** and **ovotransferrin** unfold, and bond in small groups. The whites incorporate a few bubbles that resemble sea foam.
+- **Soft peaks**: The groups of bonded proteins become interconnected. These reinforce the walls of the bubbles.
+- **Stiff peaks**: The bubbles get smaller and smaller, and the white becomes smooth like shaving cream. Peaks remain stiff and solid.
+- **Breakdown***: The proteins get tighter, squeezing the moisture out of the bubbles, resulting in meringue that weeps and breaks. Some acid like cream of tartar or lemon juice can stop things getting too tight.
+
+
 ##### Categorization
 1. **Size** is one of the most important factors. Modern lab-chicken mostly produce medium and up. The most common is large.
 	- **Jumbo** (71g / 2.5oz). 

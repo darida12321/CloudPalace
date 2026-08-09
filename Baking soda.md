@@ -1,0 +1,1 @@
+**Baking soda** (sodium bicarbonate) is basic, and when it combines with an acid ([[Butter milk|butter milk]] or [[Vinegar|vinegar]]), it breaks down int **sodium**, **water** and **carbon dioxide**. 

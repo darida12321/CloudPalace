@@ -27,7 +27,7 @@ func(1, 2, 3, 4, num=5) # Returns 4+5
 # Other callables
 Beyond this basic one, there are a few other kinds of callables:
 
-##### Methods
+##### Instance/Class methods
 Combines a [[Python function definition statement|function]], a [[Python class definition statement|class]] and an instance. It's a function of a class, or a `@classmethod`.
 **Read-only attributes**:
 - `method.__self__`: The class instance to which this method is bound.

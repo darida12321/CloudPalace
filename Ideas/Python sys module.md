@@ -1,0 +1,1 @@
+In general, the **sys** module exposes some internal variables, and mediates interactions with the system. Read more [here](https://docs.python.org/3/library/sys.html).
