@@ -1,9 +1,6 @@
 
 
 
-
-
-
 ---
 
 
@@ -17,6 +14,7 @@ source: [Python for Data Analysis Third Edition](https://www.lkhibra.ma/books/Py
 communism union thingy:
 
 - laws? who decides/upholds them? case by case? charismatic leaders emerging?
+	- education doesn't solve biases.
 - scarcity of resources? who gets it, who decides?
 - how should global policies be decided?
 	- Fusion: 80% of the world cooperating, but a rare resource's owners don't cooperate
@@ -29,25 +27,15 @@ communism union thingy:
 [council communism](https://theanarchistlibrary.org/library/mark-shipway-council-communism):
 
 
+they usually do a shitton of bugfixes
+1 super old one
+a lot of recent small changes
+take a system or two, make it data driven and fix all bugs related to it.
 
 
 ---
-cassie mod pack talk
-
-why no gtnh now? or only in 1-2 years?
-I got a spark. I'm not letting it go out. gtnh would smother it. If it catches ablaze and becomes a stable part of my life, I'll come. if it dies or if it doesn't catch anything for years, I'll come.
-
-why date?
-dating is novel. I'm pushing way out of my comfort zone. and it's something I want to be more comfortable with. that's it.
-
-why not appreciate me?
-I do! these two can coexist. I appreciate you, but also hanging out is not what I need. egress episode? eh nah.
-well actually you do have a point... Like... I'm in this group, and actively saying "no this is not enough" and "I'm not satisfied". And the thing is.... I'm really not. I really am choosing to better myself to move forward with my life.
-But... like am I insane for this?? 
 
 
-
----
 
 inflatable bed size: 132cm x 186cm
 

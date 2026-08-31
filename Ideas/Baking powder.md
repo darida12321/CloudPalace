@@ -1,4 +1,4 @@
-[[Baking soda]] and an **acid** (like [[Butter milk|butter milk]] or [[Vinegar|vinegar]]) produce CO2, which is used in a lot of recipes. People realized that mixing [[Baking soda|baking soda]] and a powdered acid (like [[Cream of tartar|cream of tartar]]) along with some [[Cornstarch|starch]] to keep it dry, would let people store all the ingredients of this reaction in the same container. This is called **baking soda**.
+[[Baking soda]] and an **acid** (like [[Buttermilk|butter milk]] or [[Vinegar|vinegar]]) produce CO2, which is used in a lot of recipes. People realized that mixing [[Baking soda|baking soda]] and a powdered acid (like [[Cream of tartar|cream of tartar]]) along with some [[Cornstarch|starch]] to keep it dry, would let people store all the ingredients of this reaction in the same container. This is called **baking soda**.
 
 Nowadays, it's often **double acting**. It first forms bubbles when **mixed with water** then again when **heated**. This is caused by a second powdered acid (often **aluminium sulphate**) which reacts with the [[Baking soda|baking soda]]. 
 

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Yeast.md",
+                "file": "Admin/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yeast"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "50dfcfcac10fc459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Cutlery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cutlery"
+            }
+          },
+          {
+            "id": "97b5659d287b2a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Cooking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cooking"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Yeast.md",
+                "file": "Admin/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Yeast.md",
+                "file": "Admin/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,36 +213,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cac46245d324bdc9",
+  "active": "97b5659d287b2a11",
   "lastOpenFiles": [
+    "Ideas/Cutlery.md",
+    "Ideas/Whey.md",
+    "Concepts/Cooking.md",
+    "Ideas/Easy cream biscuit.md",
+    "Ideas/Creamy sausage gravy.md",
+    "Ideas/Buttermilk biscuit.md",
+    "Ideas/Flour.md",
+    "Ideas/Waffle.md",
+    "Ideas/Pecorino Romano.md",
+    "Ideas/Parmigiano-Reggiano.md",
+    "Ideas/Yeast.md",
+    "Ideas/Lemon ricotta pancake.md",
+    "Ideas/Club soda.md",
+    "Ideas/Seltzer water.md",
+    "Ideas/Buttermilk pancakes.md",
+    "Ideas/Ricotta.md",
+    "Ideas/Milk.md",
+    "Ideas/Lemon.md",
+    "Ideas/Honey.md",
+    "Ideas/Fresh ricotta.md",
+    "Ideas/Warm ricotta.md",
+    "Ideas/Baking soda.md",
+    "Ideas/Buttermilk.md",
     "Admin/TODO.md",
     "Ideas/Egg.md",
-    "Ideas/Flour.md",
-    "Ideas/Yeast.md",
-    "Ideas/Baking soda.md",
     "Ideas/Vinegar.md",
-    "Ideas/Baking powder.md",
-    "Ideas/Cream of tartar.md",
-    "Ideas/Cornstarch.md",
-    "Concepts/Cooking.md",
-    "Ideas/Buttermilk pancakes.md",
-    "Ideas/Butter milk.md",
-    "Ideas/Maillard reaction.md",
-    "Concepts/Music theory.md",
-    "Ideas/Cutlery.md",
-    "Ideas/Weak force.md",
-    "Concepts/Python.md",
-    "Ideas/Python sys module.md",
     "Untitled.base",
-    "Ideas/Python built-in constants.md",
-    "Ideas/Python site module.md",
-    "Ideas/Python importlib module.md",
-    "Ideas/Python file.md",
-    "Python I/O objects.md",
     "Python I",
-    "Ideas/Python math module.md",
-    "Ideas/Combinations.md",
-    "Ideas/Python try statement.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Admin/Attachments/Pasted image 20260627173515.png",

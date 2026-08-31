@@ -15,6 +15,8 @@ Tools:
 **Food reactions**:
 [[Maillard reaction]]
 
+#TODO batter and dough. (page 142, 159)
+
 Ingredients:
 [[Salt]]
 [[Pepper]]
@@ -33,7 +35,7 @@ Ingredients:
 [[Baking powder]]
 [[Cream of tartar]]
 [[Cornstarch]]
-[[Butter milk]]
+[[Buttermilk]]
 
 
 Recipes
@@ -51,9 +53,6 @@ Recipes
 [[Rosti]]
 [[Potato hash]]
 
- 
-
-
 
 [[Hollandaise sauce]]
 [[Crème fraiche]]
@@ -69,6 +68,31 @@ Recipes
 
 
 ---
+
+
+
+[[Ricotta]]
+[[Pecorino Romano]]
+[[Parmigiano-Reggiano]]
+
+[[Milk]]
+[[Whey]]
+[[Lemon]]
+[[Honey]]
+[[Club soda]]
+[[Seltzer water]]
+
+
+
+[[Fresh ricotta]]
+[[Warm ricotta]]
+[[Lemon ricotta pancake]]
+[[Waffle]]
+[[Buttermilk biscuit]]
+[[Easy cream biscuit]]
+[[Creamy sausage gravy]]
+
+
 
 
 
