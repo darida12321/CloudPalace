@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Cooking.md",
+                "file": "Ideas/Sticky bun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cooking"
+              "title": "Sticky bun"
             }
           }
         ],
@@ -213,19 +213,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97b5659d287b2a11",
+  "active": "c837bc7ba31a8bcd",
   "lastOpenFiles": [
+    "Concepts/Cooking.md",
+    "Ideas/Fried bacon.md",
+    "Ideas/Bacon.md",
+    "Ideas/Creamy sausage gravy.md",
+    "Ideas/Sticky bun.md",
+    "Ideas/Hot chocolate.md",
+    "Ideas/Crème fraiche.md",
+    "Ideas/Yeast.md",
     "Ideas/Cutlery.md",
     "Ideas/Whey.md",
-    "Concepts/Cooking.md",
     "Ideas/Easy cream biscuit.md",
-    "Ideas/Creamy sausage gravy.md",
     "Ideas/Buttermilk biscuit.md",
     "Ideas/Flour.md",
     "Ideas/Waffle.md",
     "Ideas/Pecorino Romano.md",
     "Ideas/Parmigiano-Reggiano.md",
-    "Ideas/Yeast.md",
     "Ideas/Lemon ricotta pancake.md",
     "Ideas/Club soda.md",
     "Ideas/Seltzer water.md",
@@ -236,11 +241,6 @@
     "Ideas/Honey.md",
     "Ideas/Fresh ricotta.md",
     "Ideas/Warm ricotta.md",
-    "Ideas/Baking soda.md",
-    "Ideas/Buttermilk.md",
-    "Admin/TODO.md",
-    "Ideas/Egg.md",
-    "Ideas/Vinegar.md",
     "Untitled.base",
     "Python I",
     "Untitled 1.base",

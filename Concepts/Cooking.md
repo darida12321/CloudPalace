@@ -37,6 +37,17 @@ Ingredients:
 [[Cornstarch]]
 [[Buttermilk]]
 
+[[Ricotta]]
+[[Pecorino Romano]]
+[[Parmigiano-Reggiano]]
+
+[[Milk]]
+[[Whey]]
+[[Lemon]]
+[[Honey]]
+[[Club soda]]
+[[Seltzer water]]
+
 
 Recipes
 [[Soft-boiled egg]]
@@ -53,36 +64,12 @@ Recipes
 [[Rosti]]
 [[Potato hash]]
 
-
 [[Hollandaise sauce]]
 [[Crème fraiche]]
-
 
 [[Eggs benedict]]
 [[Eggs Florentine]]
 [[Buttermilk pancakes]]
-
-
-
-
-
-
----
-
-
-
-[[Ricotta]]
-[[Pecorino Romano]]
-[[Parmigiano-Reggiano]]
-
-[[Milk]]
-[[Whey]]
-[[Lemon]]
-[[Honey]]
-[[Club soda]]
-[[Seltzer water]]
-
-
 
 [[Fresh ricotta]]
 [[Warm ricotta]]
@@ -91,6 +78,28 @@ Recipes
 [[Buttermilk biscuit]]
 [[Easy cream biscuit]]
 [[Creamy sausage gravy]]
+[[Sticky bun]]
+[[Hot chocolate]]
+
+
+NOT MADE YET
+[[Crème fraiche]]
+[[Fresh ricotta]]
+[[Warm ricotta]]
+[[Lemon ricotta pancake]]
+[[Waffle]]
+[[Buttermilk biscuit]]
+[[Easy cream biscuit]]
+[[Creamy sausage gravy]]
+[[Sticky bun]]
+[[Hot chocolate]]
+
+
+---
+
+
+
+
 
 
 

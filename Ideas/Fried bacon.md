@@ -8,3 +8,5 @@
 
 # Notes
 [[Bacon]] has **fat** and **connective** tissues. Fat shrinks, deforming the topology, leaving only some parts in contact with the pan. Slow cooking and even heat distribution is essential.
+
+Add foil on the bottom when using the oven or an air fryer to make clean up easier.
