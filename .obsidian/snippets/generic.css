@@ -1,0 +1,9 @@
+.table-valign-center td,
+.table-valign-center th {
+    vertical-align: middle;
+}
+
+.table-halign-center td,
+.table-halign-center th {
+    text-align: center;
+}

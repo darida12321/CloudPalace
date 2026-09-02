@@ -83,16 +83,16 @@ Recipes
 
 
 NOT MADE YET
-[[Crème fraiche]]
-[[Fresh ricotta]]
-[[Warm ricotta]]
-[[Lemon ricotta pancake]]
-[[Waffle]]
-[[Buttermilk biscuit]]
-[[Easy cream biscuit]]
-[[Creamy sausage gravy]]
 [[Sticky bun]]
-[[Hot chocolate]]
+[[Crème fraiche]]
+[[Fresh ricotta]] (cheese cloth)
+[[Warm ricotta]] (cheese cloth)
+[[Lemon ricotta pancake]] (cheese cloth)
+[[Waffle]] (waffle iron)
+[[Buttermilk biscuit]] (blender)
+[[Easy cream biscuit]] (blender)
+[[Creamy sausage gravy]] (blender)
+[[Hot chocolate]] (blender)
 
 
 ---

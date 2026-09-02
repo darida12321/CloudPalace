@@ -36,21 +36,35 @@
             }
           },
           {
-            "id": "97b5659d287b2a11",
+            "id": "46a48797212f2217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Sticky bun.md",
+                "file": "Concepts/Markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sticky bun"
+              "title": "Markdown"
+            }
+          },
+          {
+            "id": "a871beff6ea59a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "help",
+                "query": "il",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,51 +227,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c837bc7ba31a8bcd",
+  "active": "a871beff6ea59a54",
   "lastOpenFiles": [
-    "Concepts/Cooking.md",
-    "Ideas/Fried bacon.md",
-    "Ideas/Bacon.md",
-    "Ideas/Creamy sausage gravy.md",
-    "Ideas/Sticky bun.md",
-    "Ideas/Hot chocolate.md",
-    "Ideas/Crème fraiche.md",
-    "Ideas/Yeast.md",
-    "Ideas/Cutlery.md",
-    "Ideas/Whey.md",
-    "Ideas/Easy cream biscuit.md",
-    "Ideas/Buttermilk biscuit.md",
-    "Ideas/Flour.md",
-    "Ideas/Waffle.md",
-    "Ideas/Pecorino Romano.md",
-    "Ideas/Parmigiano-Reggiano.md",
-    "Ideas/Lemon ricotta pancake.md",
-    "Ideas/Club soda.md",
-    "Ideas/Seltzer water.md",
-    "Ideas/Buttermilk pancakes.md",
-    "Ideas/Ricotta.md",
-    "Ideas/Milk.md",
-    "Ideas/Lemon.md",
-    "Ideas/Honey.md",
-    "Ideas/Fresh ricotta.md",
-    "Ideas/Warm ricotta.md",
+    "Projects/Cooking.md",
+    "Projects/Music theory.md",
+    "Projects/Obsidian.md",
+    "Projects/Philosophy of mathematics.md",
+    "Projects/Probability theory.md",
+    "Projects/Python.md",
+    "Concepts/Philosophy of probability.md",
+    "Concepts/Markdown.md",
+    "Ideas/WYSIWYG.md",
+    "Projects",
+    "Ideas/MultiMarkdown.md",
+    "Ideas/Obsidian Table Extended plugin.md",
+    "Ideas/Markdown definition list.md",
+    "Ideas/UTF-16.md",
+    "Ideas/Endianness.md",
+    "Ideas/UTF-8.md",
+    "Ideas/String representation.md",
+    "Ideas/ANSI.md",
+    "Ideas/Markdown table.md",
+    "Ideas/Obsidian ABC Music Notation plugin.md",
+    "Ideas/Abc notation.md",
+    "Ideas/Abc file.md",
+    "Ideas/Abc tune body.md",
+    "Ideas/Abc information fields.md",
+    "Ideas/Markdown code block.md",
+    "Ideas/Obsidian markdown.md",
+    "Ideas/Obsidian callouts.md",
+    "Admin/Attachments/Markdown_logo.png",
+    "Admin/Attachments/Markdown_logo.png",
+    "Admin/Attachments/Venn diagram.png",
+    "Admin/Attachments/Pentlandite.png",
+    "Admin/Attachments/Chromite.png",
     "Untitled.base",
     "Python I",
     "Untitled 1.base",
     "Untitled 2.base",
     "Admin/Attachments/Pasted image 20260627173515.png",
-    "Admin/Attachments/Chromite.png",
-    "Admin/Attachments/Pentlandite.png",
     "Admin/Attachments/Pasted image 20260626235341.png",
     "Admin/Attachments/Pasted image 20260626235033.png",
     "Admin/Attachments/Pasted image 20260626235016.png",
     "Admin/Attachments/angelfish.pdf",
     "Admin/Attachments/Pasted image 20260607124309.png",
     "Admin/Mind palace",
-    "Admin/Attachments/Venn diagram.png",
     "New folder",
     "Admin",
-    "Admin/Templates",
-    "Permanent Progress"
+    "Admin/Templates"
   ]
 }

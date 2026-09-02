@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Admin/Attachments"
+  "attachmentFolderPath": "Admin/Attachments",
+  "propertiesInDocument": "hidden"
 }
