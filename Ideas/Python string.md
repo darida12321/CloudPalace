@@ -10,6 +10,7 @@ There are multiple ways of templating strings:
 - `'string'`, `"string"`, `'''string'''`, `"""string"""`.
 - `'stri' 'ng'`: When only separated by whitespace, they combine.
 - `str(object)`: Calls `__str__()`, or `__repr__()`.
+- `r'string'`: Raw string, parses a `\` as a backslash instead of an escape sequence.
 - `f'string'`: [[Python f-string|F-strings]] can include variables.
 - `t'string'`: [[Python t-string|T-strings]] are similar to f-strings, but safer due to being template-based.
 **Static methods**:
