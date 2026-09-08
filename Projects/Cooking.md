@@ -1,5 +1,5 @@
 [[Pots and pans]] #TODO finish
-[[Cutlery]] #TODO finish
+[[Cutlery]]
 
 Plates: 
 John Lewis:
@@ -48,6 +48,14 @@ Ingredients:
 [[Club soda]]
 [[Seltzer water]]
 
+[[Stock]]
+[[Broth]]
+[[Soup vegetables]]
+[[Animal matter]]
+[[Chicken]]
+[[Gelatin]]
+
+
 
 Recipes
 [[Soft-boiled egg]]
@@ -81,6 +89,13 @@ Recipes
 [[Sticky bun]]
 [[Hot chocolate]]
 
+[[Chicken stock]]
+[[Vegetable stock]]
+[[Chicken vegetable soup]]
+[[Beef and barley soup]]
+
+
+
 
 NOT MADE YET
 [[Sticky bun]]
@@ -94,14 +109,15 @@ NOT MADE YET
 [[Creamy sausage gravy]] (blender)
 [[Hot chocolate]] (blender)
 
+[[Chicken stock]] (blender)
+[[Vegetable stock]] (blender)
+[[Chicken vegetable soup]] (blender)
+[[Beef and barley soup]] (blender)
+
+
+
 
 ---
-
-
-
-
-
-
 
 
 

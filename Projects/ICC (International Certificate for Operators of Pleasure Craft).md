@@ -1,0 +1,1 @@
+An international certificate proving that you can operate a boat or pleasure craft. This is the only sailing license approved by the United Nations. Many countries have separate application processes, often an exam.

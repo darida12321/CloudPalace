@@ -1,11 +1,4 @@
 
-markdown
-multimarkdown
-table-extended
-
-
-
-
 ---
 
 
@@ -47,7 +40,12 @@ inflatable bed size: 132cm x 186cm
 ---
 
 
+MICROWAVE
+The most common use cases are **defrosting** and **reheating**.
+A flatbed microwave frees up more space.
 
+SHARP YC-QS254AU-B 25 Litre 900W Digital FLATBED Microwave. £150.
+https://www.amazon.co.uk/SHARP-YC-QC254AU-B-Microwave-Convection-Automatic/dp/B09YV4MHGB?th=1
 
 
 Jun 7 (sun), Jun 28 (sun), 
@@ -153,20 +151,20 @@ printer: brother HL-L1242W
 	- £6 amazon: https://www.amazon.co.uk/Ateco-Spatula-Rounded-Cranked-Palette/dp/B000WG14FC
 - 12-14 inch carbon steel wok
 	- £40 14-inch school of wok https://schoolofwok.co.uk/shop/woks/14-carbon-steel-wok-12322006
-
-
----
----
----
-
-
-
-
-
-
-
 - food processor:
-	- £320 14cup: https://www.williams-sonoma.com/products/cuisinart-14-cup-custom-food-processor/
+	- £320 14cup: https://www.cuisinart.co.uk/cuisinart-3l-expert-prep-pro-FP1300SU.html
+
+---
+---
+---
+
+
+
+
+
+
+
+
 
 
 - stone fixer TODO

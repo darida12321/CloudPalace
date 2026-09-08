@@ -1,0 +1,1 @@
+A 10 online [course](https://www.rya.org.uk/course-finder/marine-radio-src-course-and-exam/) with an **exam**. It explains how to use a VHF radio. 

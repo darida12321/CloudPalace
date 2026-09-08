@@ -1,0 +1,1 @@
+A 40h online [course](https://www.rya.org.uk/course-finder/yachtmaster-ocean-theory-course/) with an **exam**. Teaches advanced theory such as sextant usage, star-based navigation, ocean passage planning. These help in getting an ocean-based [[RYA Yachtmaster|Yachtmaster]] certification.

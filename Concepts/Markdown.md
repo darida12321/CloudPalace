@@ -2,7 +2,9 @@
 cssclasses:
   - table-valign-center
 ---
-Markdown is a file format (usually `.md`) that uses [[String representation|text]] for formatting a document. It's not a [[WYSIWYG]] editor. It has a [[String representation|text]]-based format, and an [[HTML|HTML]]-based output. However, even if its text format, it is quite readable.
+Markdown is a markup language that uses [[String representation|text]] for formatting a document. It's not a [[WYSIWYG]] editor. It has a [[String representation|text]]-based format, and an [[HTML|HTML]]-based output. However, even if its text format, it is quite readable.
+
+After its creation in 2004, a lot of other implementations popped up adding extra features. Some were slowly added back into the main specification as well, but some where left intentionally unspecified, as different sites have different needs.
 
 # How it works
 Under the hood, there is a multi-step process being executed.
@@ -29,7 +31,7 @@ There are some basic features that almost every markdown parser implements.
 | [[Markdown links\|Links]] | `[Markdown](https://www.markdownguide.org)` |
 | [[Markdown HTML\|HTML]] | `<em>bold<\em>` |
 ```
-And there are also some extended features that are often implemented, but not always.
+There are some extended features that are implemented less often.
 ```tx
 | Markdown | Result |
 | --- | --- |
@@ -43,9 +45,9 @@ And there are also some extended features that are often implemented, but not al
 | [[Markdown task list\|Task lists]] | `- [ ] Task` |
 
 ```
-Of course, many parsers decide to implement completely novel features.
+Of course, many parsers decide to implement completely novel features too.
 
 # Examples
-Some notable **flavours** are used by [[Obsidian markdown|Obsidian]], [[Discord markdown|Discord]], [[Github markdown|Github]], etc...
-A comprehensive list can be found [here](https://www.markdownguide.org/tools/).
+Some notable **flavours** are used by [[Obsidian markdown|Obsidian]], [[Discord markdown|Discord]], [[Github markdown|Github]], [[MultiMarkdown|MultiMarkdown]], etc...
+A more comprehensive list can be found [here](https://www.markdownguide.org/tools/).
 

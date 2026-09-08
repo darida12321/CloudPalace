@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Projects/Cooking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cooking"
+            }
+          },
+          {
+            "id": "76e3e0cf705d5101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Admin/TODO.md",
                 "mode": "source",
                 "source": false
@@ -22,49 +36,21 @@
             }
           },
           {
-            "id": "50dfcfcac10fc459",
+            "id": "7ea96a8340ff3c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Cutlery.md",
+                "file": "Projects/Vegetable stock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cutlery"
-            }
-          },
-          {
-            "id": "46a48797212f2217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Markdown.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markdown"
-            }
-          },
-          {
-            "id": "a871beff6ea59a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
+              "title": "Vegetable stock"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,35 +213,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a871beff6ea59a54",
+  "active": "76e3e0cf705d5101",
   "lastOpenFiles": [
-    "Projects/Cooking.md",
-    "Projects/Music theory.md",
-    "Projects/Obsidian.md",
-    "Projects/Philosophy of mathematics.md",
-    "Projects/Probability theory.md",
-    "Projects/Python.md",
-    "Concepts/Philosophy of probability.md",
-    "Concepts/Markdown.md",
-    "Ideas/WYSIWYG.md",
-    "Projects",
-    "Ideas/MultiMarkdown.md",
+    "Projects/Vegetable stock.md",
+    "Concepts/RYA (Royal Yachting Association).md",
+    "Admin/TODO.md",
+    "Projects/ICC (International Certificate for Operators of Pleasure Craft).md",
+    "Projects/UK categorisation of waters.md",
+    "Projects/RYA Yachtmaster.md",
     "Ideas/Obsidian Table Extended plugin.md",
-    "Ideas/Markdown definition list.md",
-    "Ideas/UTF-16.md",
-    "Ideas/Endianness.md",
-    "Ideas/UTF-8.md",
-    "Ideas/String representation.md",
-    "Ideas/ANSI.md",
-    "Ideas/Markdown table.md",
-    "Ideas/Obsidian ABC Music Notation plugin.md",
-    "Ideas/Abc notation.md",
-    "Ideas/Abc file.md",
-    "Ideas/Abc tune body.md",
-    "Ideas/Abc information fields.md",
-    "Ideas/Markdown code block.md",
-    "Ideas/Obsidian markdown.md",
-    "Ideas/Obsidian callouts.md",
+    "Projects/RYA Yachtmaster Ocean Theory course.md",
+    "Projects/RYA Yachtmaster Offshore Theory course.md",
+    "Projects/RYA Day Skipper Theory course.md",
+    "Projects/RYA Essential Navigation and Seamanship course.md",
+    "Projects/RYA Coastal Skipper Practical Sailing course.md",
+    "Projects/RYA Day Skipper Practical Sailing course.md",
+    "Projects/RYA Competent Crew course.md",
+    "Projects/RYA Start Yachting course.md",
+    "Ideas/David Mellor.md",
+    "Projects/RYA Marine Radio SRC course.md",
+    "Ideas/Sticky bun.md",
+    "Projects/Cooking.md",
+    "Projects/Stock.md",
+    "Projects/Broth.md",
+    "Projects/Chicken stock.md",
+    "Projects/Soup vegetables.md",
+    "Projects/Chicken vegetable soup.md",
+    "Projects/Beef and barley soup.md",
+    "Projects/Animal matter.md",
+    "Projects",
     "Admin/Attachments/Markdown_logo.png",
     "Admin/Attachments/Markdown_logo.png",
     "Admin/Attachments/Venn diagram.png",
