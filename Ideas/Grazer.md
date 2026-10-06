@@ -1,0 +1,1 @@
+Organisms that feed on other organisms growing across a surface like algae, grass or microbial mats.

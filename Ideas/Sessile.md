@@ -1,0 +1,1 @@
+Organisms that are anchored to a place and cannot move.

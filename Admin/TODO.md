@@ -1,6 +1,41 @@
 
+candida auris
+
+
+
 ---
 
+I have double beds.
+
+blanket
+pillow
+blanket case, pillow case
+douvet
+
+comforter, duvet, blanket, quilt, bedspread, coverlet
+https://www.youtube.com/watch?v=n09XkTTzYtg
+https://www.youtube.com/watch?v=vk_gTL8PmIc
+
+
+[[Bed sizes]]
+These describe the mattress dimensions. While there are some commonly used names, the precise measurement varies from country to country.
+
+In the UK, the sizes are as follows:
+
+| Name         | Size (cm) |
+| ------------ | --------- |
+| Small single | 76 x 191  |
+| Single       | 91 x 191  |
+| Small double | 122 x 191 |
+| Double       | 137 x 198 |
+| King         | 152 x 198 |
+| Super King   | 183 x 198 |
+(There are Queen size beds too, which refers to one of these, but it's inconsistent)
+
+
+
+---
+   
 
 
 source: [Python for Data Analysis Third Edition](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf)
@@ -35,8 +70,6 @@ take a system or two, make it data driven and fix all bugs related to it.
 ---
 
 
-
-inflatable bed size: 132cm x 186cm
 
 ---
 

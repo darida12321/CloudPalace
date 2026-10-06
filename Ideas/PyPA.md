@@ -1,0 +1,1 @@
+The **Python Packaging Authority (PyPA)** is a [[Github]] organization maintaining software projects used in python packaging such as [[PyPI]] and [[Pip|pip]]. The actual organization supporting them legally is [[PSF|PSA]].

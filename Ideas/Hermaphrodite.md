@@ -1,0 +1,1 @@
+Species where individuals have both **male** and **female** reproductive organs.

@@ -1,0 +1,1 @@
+Organisms that make organic compounds from inorganic matter, as opposed to consuming other organisms like [[Heterotroph|heterotrophs]].

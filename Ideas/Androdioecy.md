@@ -1,0 +1,1 @@
+Species containing **male** and [[Hermaphrodite|hermaphrodite]] individuals.

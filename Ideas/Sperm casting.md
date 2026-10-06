@@ -1,0 +1,1 @@
+Similar to [[Broadcast spawning|broadcast spawning]], but only the **male sperm** gets spewed out.

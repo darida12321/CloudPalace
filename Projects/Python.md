@@ -49,15 +49,64 @@ You can define [[Python callable|functions and methods]] that execute code. Thes
 
 Things can further be organized into [[Python module|modules]] and [[Python package|packages]], which are managed by the [[Python import system|import system]].
 
-# Modules
-Python has plenty of built-in, and external modules.
-- [[Python numbers module|numbers]]: Creates abstract classes for numbers.
-- [[Python math module|math]]: Common mathematical functions.
-- [[Python types module|types]]: Helps with dynamic data types.
-- [[Python builtins module|builtins]]: Definition of built-in values.
-- [[Python importlib module|importlib]]: Functions aiding with the import mechanisms.
-- [[Python site module|site]]: Usually automatically imported. Helps with command line interactions.
-- [[Python sys module|sys]]: Automatically imported. Stores internal values and handles system interactions.
+
+#TODO write this
+
+---
+# Packages
+Python has a lot of [[Python built-in modules|built-in]] and [[Python external modules|external]] modules and packages.
+
+
+
+
+
+
+---
+#TODO organize these.
+
+[[Python command]]
+
+[[PyPA]]
+[[PyPI]] 
+
+[[PEP]]
+[[PSF]]
+
+---
+
+Distributions can be: [[Python module|module]], [[Python distribution package|source distributions]], 
+
+[[Python wheel module]] 
+
+
+
+
+[[Python twine module]] 
+
+
+
+[[Python setuptools module]]
+
+ 
+
+[[Pip]]
+
+
+
+twine: utility for pypi publishing.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 source: [Python 3 documentation](https://docs.python.org/3/library/index.html)

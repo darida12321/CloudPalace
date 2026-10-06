@@ -1,0 +1,1 @@
+A classic behavioural experiment, where monkeys were put in a room with some boxes, and a banana that's too high up. The monkeys learned to stack the boxes up so they can reach the banana.

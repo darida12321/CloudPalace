@@ -1,0 +1,1 @@
+A way of reproduction where the **female** organism's egg is fertilized, but they keep it protected for a while longer.

@@ -1,0 +1,1 @@
+While AI systems are prompted to not respond to dangerous requests, these can be bypassed. There were subreddits and communities centered around this.

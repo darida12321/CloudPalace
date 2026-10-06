@@ -1,0 +1,1 @@
+Organisms that extract food particles from the water by passing it through a filter.

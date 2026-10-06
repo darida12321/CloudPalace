@@ -4,6 +4,8 @@ While the [[RYA Yachtmaster|Yachtmaster]] is the highest degree of sailing abili
 
 The only international certificate is the [[ICC (International Certificate for Operators of Pleasure Craft)|ICC]]. For sailing, providing a [[RYA Day Skipper Practical Sailing course|Day Skipper Practical Sailing certificate]] is enough, which will allow you to operate **sailing boats** and **power boats** up to 10m in length.
 
+However, a certificate is often not enough. Many rental places check for your boating CV to ensure you have adequate experience. Join a sailing club to build this up in addition to the tests.
+
 ##### Courses
 - **Sail cruising**:
 	- [[RYA Start Yachting course]]: Absolute fundamentals.

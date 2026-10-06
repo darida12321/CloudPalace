@@ -17,7 +17,7 @@
 4. Simmer for 45 mins. Add water if necessary. Ladle scum off.
 5. Transfer chicken legs to bowl. Fine-mash strain the stock. Reduce to about 2l (10 mins?)
 6. Take meat off chicken legs, discard bones. Use meat for something.
-7. Rest for 15 mins, skim fat off with ladle. Or refrigerate overnight until fat solidifies.
+7. Rest for 15 mins, skim fat off with ladle, or refrigerate overnight until fat solidifies.
 ##### Notes
-[[Chicken]] **carcasses** is a cheap, and really good alternative
+[[Chicken]] **carcasses** are a cheap, and really good alternative to backs/wing tips
 Will keep for 5 days, or 3 months frozen.
