@@ -35,7 +35,10 @@ The tendency for large mainland animals to decrease in size on islands.
 
 
 
+https://www.youtube.com/watch?v=tL9Lw250spc
+Kleiber's law
 
+Power laws/scaling laws
 
 
 Bergmann's rule

@@ -54,7 +54,8 @@ Things can further be organized into [[Python module|modules]] and [[Python pack
 
 ---
 # Packages
-Python has a lot of [[Python built-in modules|built-in]] and [[Python external modules|external]] modules and packages.
+Python has a lot of [[Python built-in modules|built-in]] and [[Python external modules|external]] modules and packages. Distributing these is an important task, which is taken up by [[Python Package Authority|Python Package Authority (PyPA)]] who are independent, but supported by the [[Python Software Foundation|Python Software Foundation (PSF)]]. They created the [[PyPI|Python Package Index (PyPI)]], an open source repository that holds [[Python package|packages]].
+
 
 
 
@@ -65,33 +66,42 @@ Python has a lot of [[Python built-in modules|built-in]] and [[Python external m
 #TODO organize these.
 
 [[Python command]]
-
-[[PyPA]]
-[[PyPI]] 
-
 [[PEP]]
-[[PSF]]
+
 
 ---
 
-Distributions can be: [[Python module|module]], [[Python distribution package|source distributions]], 
+Distributions can be:  [[Python source distribution|source distributions]], [[Python built distribution|built distributions]] 
+
+[[Python built distribution]]
+**Built distributions** (**bdist**) are the [[Python package|packages]] uploaded to platforms like [[PyPI|PyPI]]. Unlike [[Python source distribution|source distributions]], these only need to be moved to the correct location. One example of it is a [[Python wheel|wheel]].
+
+
+[[Python wheel]]
+A **wheel file** (`.whl`) is a type of [[Python built distribution|built distribution]]. It's essentially a ZIP archive with a special filename: `{dist}-{version}(-{build})?-{python}-{abi}-{platform}.whl`.
+
+For example, a file named `cryptography-2.9.2-cp35-abi3-macosx_10_9_x86_64.whl` means that it's a wheel for `cryptography` module's `2.9.2` version. It needs `cp35` ([[CPython|CPython]] 3.5), and only runs on MacOS.
+
+
 
 [[Python wheel module]] 
+
+
+wheels are smaller in size
+wheels don't need to be built
+
+
+pip prefers wheels over sdists.
+if pip gets an sdist, it compiles it to a wheel, then installs it.
+
+
 
 
 
 
 [[Python twine module]] 
-
-
-
 [[Python setuptools module]]
-
- 
-
 [[Pip]]
-
-
 
 twine: utility for pypi publishing.
 

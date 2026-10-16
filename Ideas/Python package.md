@@ -1,7 +1,7 @@
 Python **packages** are [[Python module|modules]] with a hierarchical structure. They have a `__path__` variable containing sub-packages or sub-modules.
 Subpackage `__name__`-s are separated from its parent's name by a dot.
 
-Note that this refers specifically to **import packages**. Not to be confused with [[Python distribution package|distribution packages]].
+Note that this refers specifically to **import packages**. Not to be confused with [[Python source distribution|distribution packages]].
 
 ##### Regular packages
 This is the older package style. It's a folder that has a `__init__.py` file. When importing the package, the init file is executed, and the [[Python variable|variables]] get bound to the package's namespace.
